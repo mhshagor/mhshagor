@@ -5,8 +5,7 @@
 
 
 Assalamu Alaikum. 
-I'm Shagor From Bangladesh.
-I'm FullStack Web Developer.
+ I am M.H Shagor from BD. I am Professional Web Developer. I specialize in HTML5, CSS3, Bootstrap 4,5, Tailwind 2,3, Javascript, jquery, Php 8 and Wordpress. My main goal is to provide the highest service. 
 
 Skills: PHP/ WOW JS / JS / HTML / CSS / BOOTSTRAP / TAILWIND
 
