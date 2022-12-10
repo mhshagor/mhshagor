@@ -27,7 +27,6 @@ Assalamu Alaikum.
 - 🌱 I’m currently learning Laravel. 
 - 💬 Ask me about Web Development. 
 - 📫 How to reach me: webdvs2017@gmail.com.
- <img align="center" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" weight="100"/> 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -45,5 +44,5 @@ Assalamu Alaikum.
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhshagor&theme=highcontrast&show_icons=true" alt="mhshagor" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/mhshagor)  
+![GitHub metrics](https://metrics.lecoq.io/mhshagor)<img align="center" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" weight="100"/>  
 
