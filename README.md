@@ -30,6 +30,6 @@ Assalamu Alaikum.
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhshagor&show_icons=true&locale=en&layout=compact" alt="mhshagor" /></p>
 
-<p>&nbsp; <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhshagor&" alt="mhshagor" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhshagor&" alt="mhshagor" /></p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhshagor" alt="mhshagor" /></a> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhshagor" alt="mhshagor" /></a> </p>
