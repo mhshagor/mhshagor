@@ -44,5 +44,5 @@ Assalamu Alaikum.
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhshagor&theme=highcontrast&show_icons=true" alt="mhshagor" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/mhshagor)<img align="center" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" weight="100"/>  
+![GitHub metrics](https://metrics.lecoq.io/mhshagor)  
 
