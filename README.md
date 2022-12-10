@@ -1,5 +1,19 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif)" width="100"/>
+      <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+      <div id="badges">
+          <a href="#">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+          </a>
+          <a href="https://web.facebook.com/srq001100">
+            <img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=fb&logoColor=white" alt="Facebook"/>
+          </a>
+          <a href="#">
+            <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+          </a>
+          <a href="#">
+            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+          </a>
+      </div>
 </div>
 
 ![I am FullStack Web Developer.](https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/319156679_5097415560361645_8142300371726959218_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeE1BXgO85VitKM_eimwSi0XJm5ebA7hphQmbl5sDuGmFJHP8yejLeUtH7LKk7t5TmDVrUlOEFzvg_B4aEoOctzA&_nc_ohc=VZYw9yzescYAX-IG57G&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AfDia-ge9jQ7xAUNkUkSHZhBRS5kMnGoEH0_mjyhoEEwFQ&oe=639A8091)
