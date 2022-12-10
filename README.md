@@ -25,8 +25,9 @@ Assalamu Alaikum.
  I am M.H Shagor from BD. I am Professional Web Developer. I specialize in HTML5, CSS3, Bootstrap 4,5, Tailwind 2,3, Javascript, jquery, Php 8 and Wordpress. My main goal is to provide the highest service. 
 - 🔭 I’m currently working on Fiver. 
 - 🌱 I’m currently learning Laravel. 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: webdvs2017@gmail.com 
+- 💬 Ask me about Web Development. 
+- 📫 How to reach me: webdvs2017@gmail.com.
+ <img align="center" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" weight="100"/> 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
