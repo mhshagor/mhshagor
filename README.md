@@ -24,7 +24,7 @@ Assalamu Alaikum.
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhshagor&theme=transparent&show_icons=true&locale=en&layout=compact" alt="mhshagor" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhshagor&theme=dark&show_icons=true" alt="mhshagor" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhshagor&theme=transparent&show_icons=true" alt="mhshagor" /></p>
 
 ![GitHub metrics](https://metrics.lecoq.io/mhshagor)  
 
