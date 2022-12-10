@@ -5,7 +5,7 @@
 
 Assalamu Alaikum. 
  I am M.H Shagor from BD. I am Professional Web Developer. I specialize in HTML5, CSS3, Bootstrap 4,5, Tailwind 2,3, Javascript, jquery, Php 8 and Wordpress. My main goal is to provide the highest service. 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true)
 - 🔭 I’m currently working on Fiver. 
 - 🌱 I’m currently learning Laravel. 
 - 💬 Ask me about Web Development 
