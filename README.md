@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif)" width="100"/>
+</div>
+
 ![I am FullStack Web Developer.](https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/319156679_5097415560361645_8142300371726959218_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeE1BXgO85VitKM_eimwSi0XJm5ebA7hphQmbl5sDuGmFJHP8yejLeUtH7LKk7t5TmDVrUlOEFzvg_B4aEoOctzA&_nc_ohc=VZYw9yzescYAX-IG57G&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AfDia-ge9jQ7xAUNkUkSHZhBRS5kMnGoEH0_mjyhoEEwFQ&oe=639A8091)
 
 ### Hi there 👋, I'm SHAGOR
