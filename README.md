@@ -21,9 +21,9 @@ Skills: PHP/ WOW JS / JS / HTML / CSS / BOOTSTRAP / TAILWIND
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mhshagor)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhshagor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhshagor)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhshagor&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhshagor&show_icons=true)  
+  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mhshagor)  
 
