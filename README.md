@@ -5,7 +5,6 @@
 
 Assalamu Alaikum. 
  I am M.H Shagor from BD. I am Professional Web Developer. I specialize in HTML5, CSS3, Bootstrap 4,5, Tailwind 2,3, Javascript, jquery, Php 8 and Wordpress. My main goal is to provide the highest service. 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true)
 - 🔭 I’m currently working on Fiver. 
 - 🌱 I’m currently learning Laravel. 
 - 💬 Ask me about Web Development 
@@ -21,11 +20,11 @@ Assalamu Alaikum.
 <a href="https://fb.com/srq001100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srq001100" height="30" width="40" /></a>  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mhshagor&show_icons=true&locale=en" alt="mhshagor" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mhshagor&theme=transparent&show_icons=true&locale=en" alt="mhshagor" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhshagor&show_icons=true&locale=en&layout=compact" alt="mhshagor" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhshagor&theme=transparent&show_icons=true&locale=en&layout=compact" alt="mhshagor" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhshagor&" alt="mhshagor" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhshagor&theme=transparent" alt="mhshagor" /></p>
 
 ![GitHub metrics](https://metrics.lecoq.io/mhshagor)  
 
