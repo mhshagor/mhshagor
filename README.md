@@ -20,9 +20,9 @@ Assalamu Alaikum.
 <a href="https://fb.com/srq001100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srq001100" height="30" width="40" /></a>  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mhshagor&theme=transparent&show_icons=true&locale=en" alt="mhshagor" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mhshagor&theme=highcontrast&show_icons=true&locale=en" alt="mhshagor" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhshagor&theme=transparent&show_icons=true&locale=en&layout=compact" alt="mhshagor" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhshagor&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="mhshagor" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhshagor&theme=highcontrast&show_icons=true" alt="mhshagor" /></p>
 
