@@ -29,6 +29,6 @@ Skills: PHP/ WOW JS / JS / HTML / CSS / BOOTSTRAP / TAILWIND
 
 ![GitHub metrics](https://metrics.lecoq.io/mhshagor)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mhshagor)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mhshagor)![Profile views](https://gpvc.arturio.dev/mhshagor)  
 
-![Profile views](https://gpvc.arturio.dev/mhshagor)  
+  
