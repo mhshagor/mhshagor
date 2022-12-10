@@ -18,8 +18,8 @@ Assalamu Alaikum.
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://fb.com/srq001100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srq001100" height="30" width="40" /></a> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/mhshagor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://mhshagor.github.io/srq00/) 
-</p>
+<a href="https://fb.com/srq001100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srq001100" height="30" width="40" /></a>  
+</p>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/mhshagor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://mhshagor.github.io/srq00/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mhshagor&show_icons=true&locale=en" alt="mhshagor" /></p>
 
