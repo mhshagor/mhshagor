@@ -26,7 +26,7 @@ Assalamu Alaikum.
 - 🔭 I’m currently working on Fiver. 
 - 🌱 I’m currently learning Laravel. 
 - 💬 Ask me about Web Development. 
-- 📫 How to reach me: webdvs2017@gmail.com.
+- 📫 How to reach me: srq001100@gmail.com.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
