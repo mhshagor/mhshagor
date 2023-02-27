@@ -1,7 +1,7 @@
 <div id="header" align="center">
       <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
       <div id="badges">
-          <a href="#">
+          <a href="www.linkedin.com/in/shagor-A0B0C1100">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
           <a href="https://web.facebook.com/srq001100">
