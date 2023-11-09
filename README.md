@@ -1,16 +1,16 @@
 <div id="header" align="center">
       <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
       <div id="badges">
-          <a href="https://www.linkedin.com/in/m-h-shagor">
+          <a href="https://www.linkedin.com/in/m-h-shagor" target="blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
-          <a href="https://www.facebook.com/mhshagor97">
+          <a href="https://www.facebook.com/mhshagor97" target="blank">
             <img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=fb&logoColor=white" alt="Facebook"/>
           </a>
-          <a href="#">
+          <a href="#" target="blank">
             <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
           </a>
-          <a href="#">
+          <a href="#" target="blank">
             <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
           </a>
       </div>
@@ -46,7 +46,7 @@ Assalamu Alaikum.
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-      <a href="https://fb.com/srq001100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srq001100" height="30" width="40" /></a>  
+      <a href="https://www.facebook.com/mhshagor97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srq001100" height="30" width="40" /></a>  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mhshagor&theme=highcontrast&show_icons=true&locale=en" alt="mhshagor" /></p>
