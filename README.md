@@ -4,7 +4,7 @@
           <a href="https://www.linkedin.com/in/m-h-shagor">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
-          <a href="https://web.facebook.com/srq001100">
+          <a href="https://www.facebook.com/mhshagor97">
             <img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=fb&logoColor=white" alt="Facebook"/>
           </a>
           <a href="#">
