@@ -25,7 +25,7 @@ Assalamu Alaikum.
 - 🌱 I’m currently learning Laravel. 
 - 💬 Ask me about Web Development. 
 - 📫 How to reach me: srq001100@gmail.com.
-
+[click me to download](https://github.com/Schecher1/Minecraft-Server-Creator/blob/master/README.md)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
