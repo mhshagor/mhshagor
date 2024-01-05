@@ -20,14 +20,13 @@
 ##### I am FullStack Web Developer.
 
 Assalamu Alaikum. 
- I am M.H Shagor from BD. I am Professional Web Developer. I specialize in HTML5, CSS3, Bootstrap 4,5, Tailwind 2,3, Javascript, jquery, Php 8, Laravel, Livewire and Wordpress. My main goal is to provide the highest service. 
+ I am M.H Shagor from BD. I am Professional Web Developer. I specialize in HTML5, CSS3, Bootstrap 4,5, Tailwind 2,3, Javascript, jquery, Php 8+, Laravel, Livewire and Filament. My main goal is to provide the highest service. 
 - 🔭 I’m currently working on Fiver. 
 - 🌱 I’m currently learning Laravel. 
 - 💬 Ask me about Web Development. 
 - 📫 How to reach me: srq001100@gmail.com.
-<h3 align="left"><a href="https://drive.google.com/file/d/1F8VCsNQn7A1FItTXkf84pdlwgP6rcpto/view?usp=sharing" target="_blank" rel="noreferrer"> Download My Resume </a></h3>
+<h5 align="left"><a href="https://drive.google.com/file/d/1F8VCsNQn7A1FItTXkf84pdlwgP6rcpto/view?usp=sharing" target="_blank" rel="noreferrer"> Download My Resume </a></h5>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
