@@ -77,13 +77,14 @@ Assalamu Alaikum.
   <img alt="Static Badge" src="https://img.shields.io/badge/Php-badge?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4">&nbsp;
 
   `TOOLS`
+  
   <img alt="Static Badge" src="https://img.shields.io/badge/MySql-badge?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1">&nbsp;
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
   <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
 </div>
 <hr>
 
