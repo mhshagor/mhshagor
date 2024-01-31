@@ -31,6 +31,7 @@
     </h3>
   </div>
 </div>
+
 ##### I am FullStack Web Developer.
 
 Assalamu Alaikum. 
@@ -39,19 +40,62 @@ Assalamu Alaikum.
 - 🌱 I’m currently learning Laravel. 
 - 💬 Ask me about Web Development. 
 - 📫 How to reach me: srq001100@gmail.com.
+- 
 <!-- Download CV -->
 <div style="text-align: center;">
   <a href="https://drive.google.com/file/d/1F8VCsNQn7A1FItTXkf84pdlwgP6rcpto/view?usp=sharing" style="text-decoration: none"  target="_blank">
      <img src="https://github.com/mhshagor/mhshagor/blob/main/Download.gif" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:200px;max-width:80%;height:auto;" alt="dnld" border="0">
   </a> 
 </div>
+
+<!-- Dont Forgat -->
  <div align="center">
     <a href="https://github.com/mhshagor">
       <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=😊+Don't+Forget+to+Click+Follow+😊" alt="Typing SVG" />
     </a>
  </div>
+ 
+### :hammer_and_wrench: Languages and Tools :
+<div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  `FRONTEND`
+  
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React"/>&nbsp;
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" title="nextjs" alt="chatgpt"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
+<img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" title="Redux" alt="Redux"/>&nbsp;
+<img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" title="Remix" alt="Remix"/>&nbsp;
+  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
+   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  title="Tailwind" alt="Tailwind CSS"/>&nbsp;
+     <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"  title="Bootstrap" alt="Bootstrap"/>&nbsp;
+     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
+
+
+  `BACKEND`
+  
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node" alt="Node" />&nbsp;
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express"/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" title="Mongodb" alt="Mongodb"/>&nbsp;
+   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" title="Firebase" alt="Firebase"/>&nbsp;
+
+
+  `TOOLS`
+  
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
+   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
+   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
+  <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
+  <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" title="Mui" alt="Mui"/>&nbsp;
+  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" title="Nodemon" alt="Nodemon"/>&nbsp;
+  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" title="AntD" alt="AntD"/>&nbsp;
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" title="Chakra UI" alt="Chakra UI"/>&nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" title="C" alt="C"/>&nbsp;
+
+</div>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
