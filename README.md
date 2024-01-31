@@ -35,13 +35,15 @@
 ##### I am FullStack Web Developer.
 
 Assalamu Alaikum. 
- I am M.H Shagor from BD. I am Professional Web Developer. I specialize in HTML5, CSS3, Bootstrap 4,5, Tailwind 2,3, Javascript, jquery, Php 8+, Laravel, Livewire and Filament. My main goal is to provide the highest service. 
-- 🔭 I’m currently working on Fiver. 
-- 🌱 I’m currently learning Laravel. 
-- 💬 Ask me about Web Development. 
-- 📫 How to reach me: srq001100@gmail.com.
+ I am M.H Shagar from Bangladesh. I am full stack web developer. 
+ I have already received accolades from my company for short code, responsive design and friendly behavior. 
+ My main goal is to provide the highest service. Below are the details along with my CV. You can download and save if necessary.
 
-<hr>
+Several web applications are being used in various organizations.</br> 
+<b>Contact for any jobs include:</b> `E-commerce` `invoice generator` `distributor` `distribution` `courier service` `diagnostic` etc.</br> 
+Applications are particularly significant and I consider myself as an expert.
+
+<b>Please do not contact for any jobs include:</b> `Porn` `streaming` `officially illegal` etc.
 
 ### 😎 Skillset :
 
