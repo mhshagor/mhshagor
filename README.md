@@ -60,7 +60,7 @@ Assalamu Alaikum.
 
   `FRONTEND`
   
-  <img alt="Static Badge" src="https://img.shields.io/badge/VueJs-badge?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%234FC08D">
+  <img alt="Static Badge" src="https://img.shields.io/badge/VueJs-badge?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%234FC08D">&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
@@ -71,10 +71,10 @@ Assalamu Alaikum.
   
   `BACKEND`
   
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node" alt="Node" />&nbsp;
-  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express"/>&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" title="Mongodb" alt="Mongodb"/>&nbsp;
-   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" title="Firebase" alt="Firebase"/>&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-badge?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-badge?style=for-the-badge&logo=livewire&logoColor=white&color=%234E56A6">&nbsp;
+
+
 
 
   `TOOLS`
