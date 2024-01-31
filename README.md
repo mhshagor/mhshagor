@@ -23,6 +23,10 @@
     </h3>
   </div>
 </div>
+<!-- profile view counter -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mhshagor&label=Profile%20views&color=green&style=plastic" alt="M.H shagor" /> 
+</p>
 
 ##### I am FullStack Web Developer.
 
