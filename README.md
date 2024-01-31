@@ -132,11 +132,13 @@ Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome De
  
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mhshagor&theme=highcontrast&show_icons=true&locale=en" alt="mhshagor" /></p>
+### 🔥 My GitHub Stats :
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhshagor&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="mhshagor" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhshagor&theme=highcontrast&show_icons=true" alt="mhshagor" /></p>
-
-![GitHub metrics](https://metrics.lecoq.io/mhshagor)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhshagor&layout=compact&theme=transparent&title_color=FFCC00" width="25%" height="100%" alt="Github STat"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhshagor&theme=transparent&show_icons=true&date_format=M%20j%5B%2C%20Y%5D&title_color=FFCC00" width="44%" height="100%" alt="Github STat"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mhshagor&theme=transparent&show_icons=true&date_format=M%20j%5B%2C%20Y%5D&title_color=FFCC00" width="47%" height="100%" alt="Github STat"/>
+</div>
 
