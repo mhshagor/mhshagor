@@ -41,19 +41,14 @@ Assalamu Alaikum.
 - 🌱 I’m currently learning Laravel. 
 - 💬 Ask me about Web Development. 
 - 📫 How to reach me: srq001100@gmail.com.
-<h3 align="left">
-  <a href="https://drive.google.com/file/d/1F8VCsNQn7A1FItTXkf84pdlwgP6rcpto/view?usp=sharing" target="_blank" rel="noreferrer"> Download My Resume </a>
-</h3>
-
 <!-- Download CV -->
 <div style="text-align: center;">
   <a href="https://drive.google.com/file/d/1F8VCsNQn7A1FItTXkf84pdlwgP6rcpto/view?usp=sharing" style="text-decoration: none"  target="_blank">
-     <img src="https://i.ibb.co/SrqYy2L/btn.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:300px;max-width:80%;height:auto;" alt="dnld" border="0">
+     <img src="https://github.com/mhshagor/mhshagor/blob/main/Download.gif" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:200px;max-width:80%;height:auto;" alt="dnld" border="0">
   </a> 
 </div>
 
-<hr>
-<!-- Dont Forget Follow -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/mhshagor)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
