@@ -70,7 +70,7 @@ Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome De
 
 <hr>
 
-### 👨‍💼Experiences:
+### 👨‍💼 Experiences:
 
 | No | Job Title | Company Name | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
