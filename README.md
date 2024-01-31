@@ -57,7 +57,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`
 
 CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
 
-Javascript Framworks/Libraries: `React.js` `Next.js` `jQuery`
+Javascript Framworks/Libraries: `Alpine.js` `jQuery`
 
 Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
 
@@ -92,9 +92,10 @@ Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome De
 <div>
   
   `FRONTEND`
-  
+  <!--
   <img alt="Static Badge" src="https://img.shields.io/badge/VueJs-badge?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%234FC08D">&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React"/>&nbsp;
+  -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Alpine-badge?style=for-the-badge&logo=alpine&logoColor=white&color=%2377C1D2">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="Tailwind" alt="Tailwind CSS"/>&nbsp;
