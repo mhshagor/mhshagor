@@ -42,7 +42,7 @@ Applications are particularly significant and I consider myself as an expert.
 
 ### 😎 Skillset :
 
-Programming Languages: `HTML` `CSS` `JavaScript` `TypeScript` `PHP`
+Programming Languages: `HTML` `CSS` `JavaScript` `PHP`
 
 CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
 
@@ -104,16 +104,14 @@ Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome De
 <!-- Download CV -->
 <div style="text-align: center;">
   <a href="https://drive.google.com/file/d/1F8VCsNQn7A1FItTXkf84pdlwgP6rcpto/view?usp=sharing" style="text-decoration: none"  target="_blank">
-     <img src="https://github.com/mhshagor/mhshagor/blob/main/Download.gif" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:200px;max-width:80%;height:auto;" alt="dnld" border="0">
+     <img src="https://github.com/mhshagor/mhshagor/blob/main/Download.gif" style="width:200px;max-width:80%;height:auto;" alt="dnld" border="0">
   </a> 
-</div>
-
-<!-- Dont Forgat -->
- <div align="center">
-    <a href="https://github.com/mhshagor">
-      <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=😊+Don't+Forget+to+Click+Follow+😊" alt="Typing SVG" />
+   <a href="https://github.com/mhshagor">
+      <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&vCenter=true&width=1000&height=100&lines=😊+Don't+Forget+to+Click+Follow+😊" alt="Typing SVG" />
     </a>
  </div>
+ 
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mhshagor&theme=highcontrast&show_icons=true&locale=en" alt="mhshagor" /></p>
 
