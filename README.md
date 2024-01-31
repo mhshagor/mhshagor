@@ -38,8 +38,10 @@
 
 ## I am FullStack Web Developer.
 
-Assalamu Alaikum. 
- I am M.H Shagar from Bangladesh. I am full stack web developer. 
+### 🙋‍♂️ About Me :
+
+Assalamu Alaikum.<br> 
+ I am M.H Shagor from Bangladesh. I am full stack web developer. 
  I have already received accolades from my company for short code, responsive design and friendly behavior. 
  My main goal is to provide the highest service. Below are the details along with my CV. You can download and save if necessary.
 
@@ -78,7 +80,16 @@ Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome De
 
 <hr>
 
-### :hammer_and_wrench: Languages and Tools :
+### 🌍 Live Project:
+
+| No | Url |
+| ------------- | ------------- |
+| 01  | <a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">Kaaptai</a>  |
+
+
+<hr>
+
+### 🛠️ Languages and Tools :
 <div>
   
   `FRONTEND`
