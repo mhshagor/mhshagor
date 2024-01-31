@@ -45,7 +45,14 @@ Assalamu Alaikum.
      <img src="https://github.com/mhshagor/mhshagor/blob/main/Download.gif" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:200px;max-width:80%;height:auto;" alt="dnld" border="0">
   </a> 
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/mhshagor)
+ <div align="center">
+    <h3 align="center">
+      <a href="https://github.com/mhshagor">
+        <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊"
+        alt="Typing SVG" />
+        </a>
+    </h3>
+  </div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
