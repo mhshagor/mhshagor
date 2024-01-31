@@ -1,26 +1,29 @@
-<div align="center">
-  
-![NAZMUL](gitartwork.svg)
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffcc00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Nazmul+Hossain" alt="Typing SVG" /></a></h3>
-  <a href="https://app.daily.dev/heynazmul"><img src="https://api.daily.dev/devcards/6efc20f3ae744199ab4a204dd62a939a.png?r=nbh" style="margin: 5px;" width="35%" alt="Shagor's Dev Card"/></a>
-</div>
+
 
 <div id="header" align="center">
-      <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
-      <div id="badges">
-          <a href="https://www.linkedin.com/in/m-h-shagor" target="blank">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-          </a>
-          <a href="https://www.facebook.com/mhshagor97" target="blank">
-            <img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=fb&logoColor=white" alt="Facebook"/>
-          </a>
-          <a href="#" target="blank">
-            <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-          </a>
-          <a href="#" target="blank">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-          </a>
-      </div>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <div id="badges">
+      <a href="https://www.linkedin.com/in/m-h-shagor" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://www.facebook.com/mhshagor97" target="blank">
+        <img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=fb&logoColor=white" alt="Facebook"/>
+      </a>
+      <a href="#" target="blank">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      </a>
+      <a href="#" target="blank">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      </a>
+  </div>
+  <div align="center">
+  
+  ![SHAGOR](gitartwork.svg)
+    <h3 align="center"><a href="https://git.io/typing-svg"></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=ffcc00&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+M.H+SHAGOR+From+BD"  
+        alt="Typing SVG" />
+    </h3>
+  </div>
 </div>
 
 ### Hi there 👋, I'm SHAGOR
