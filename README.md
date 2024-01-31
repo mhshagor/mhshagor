@@ -36,7 +36,7 @@
 </div>
 -->
 
-## I am FullStack Web Developer.
+## Laravel Developer.
 
 ### 🙋‍♂️ About Me :
 
