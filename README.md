@@ -7,20 +7,15 @@
     <a href="https://www.linkedin.com/in/m-h-shagor/" style="text-decoration: none"  target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <!--
-    <a href="https://www.youtube.com/@webdevmaruf" style="text-decoration: none"  target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://twitter.com/Maruf23350252" style="text-decoration: none"  target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    -->
     <a href="https://www.facebook.com/mhshagor97/" style="text-decoration: none"  target="_blank">
         <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
      <a href="https://www.instagram.com/mhshagor97" style="text-decoration: none"  target="_blank">
         <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
      </a>
+    <a href="https://www.upwork.com/freelancers/~014b649d64f1500d05?viewMode=1" style="text-decoration: none"  target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Upwork-badge?style=for-the-badge&logo=upwork&logoColor=white&color=%236FDA44">
+    </a>
   </div>
   <div align="center">
   
@@ -32,7 +27,7 @@
   </div>
 </div>
 
-##### I am FullStack Web Developer.
+## I am FullStack Web Developer.
 
 Assalamu Alaikum. 
  I am M.H Shagar from Bangladesh. I am full stack web developer. 
