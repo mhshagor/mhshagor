@@ -1,12 +1,4 @@
-<div align="center">
-  
-![Shagor](gitartwork.svg)
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffcc00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Nazmul+Hossain" alt="Typing SVG" /></a></h3>
-  <a href="https://app.daily.dev/Shagor"><img src="https://api.daily.dev/devcards/6efc20f3ae744199ab4a204dd62a939a.png?r=nbh" style="margin: 5px;" width="35%" alt="Nazmul hossain's Dev Card"/></a>
-  <a href="https://leetcode.com/Nazmul20">
-  <img src="https://leetcard.jacoblin.cool/Nazmul20?theme=dark&font=Poppins&ext=activity" width="60%" style="margin: 5px;"/>
-  </a>
-</div>
+
 <div id="header" align="center">
       <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
       <div id="badges">
