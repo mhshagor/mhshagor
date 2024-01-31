@@ -1,18 +1,26 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
-  <div id="badges">
-      <a href="https://www.linkedin.com/in/m-h-shagor" target="blank">
+  <div id="badges" align="center">
+     <a href="https://www.fiverr.com/mhshagor" style="text-decoration: none" target="_blank">
+         <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
+     </a>
+    <a href="https://www.linkedin.com/in/m-h-shagor/" style="text-decoration: none"  target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://www.facebook.com/mhshagor97" target="blank">
-        <img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=fb&logoColor=white" alt="Facebook"/>
-      </a>
-      <a href="#" target="blank">
+    </a>
+    <!--
+    <a href="https://www.youtube.com/@webdevmaruf" style="text-decoration: none"  target="_blank">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-      </a>
-      <a href="#" target="blank">
+    </a>
+    <a href="https://twitter.com/Maruf23350252" style="text-decoration: none"  target="_blank">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
+    </a>
+    -->
+    <a href="https://www.facebook.com/mhshagor97/" style="text-decoration: none"  target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+     <a href="https://www.instagram.com/mhshagor97" style="text-decoration: none"  target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
+     </a>
   </div>
   <div align="center">
   
@@ -23,10 +31,6 @@
     </h3>
   </div>
 </div>
-<!-- profile view counter -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mhshagor&label=Profile%20views&color=green&style=plastic" alt="M.H shagor" /> 
-</p>
 
 ##### I am FullStack Web Developer.
 
