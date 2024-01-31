@@ -20,13 +20,12 @@
   
   ![SHAGOR](gitartwork.svg)
     <h3 align="center"><a href="https://git.io/typing-svg"></a>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=ffcc00&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+M.H+SHAGOR+From+BD"  
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1500&color=ffcc00&center=true&vCenter=true&width=550&lines=Hey👋%2C+I'm+M.H+SHAGOR+From+BD"
         alt="Typing SVG" />
     </h3>
   </div>
 </div>
 
-### Hi there 👋, I'm SHAGOR
 ##### I am FullStack Web Developer.
 
 Assalamu Alaikum. 
