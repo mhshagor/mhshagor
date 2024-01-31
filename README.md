@@ -1,5 +1,3 @@
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
   <div id="badges">
@@ -8,12 +6,6 @@
       </a>
       <a href="https://www.facebook.com/mhshagor97" target="blank">
         <img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=fb&logoColor=white" alt="Facebook"/>
-      </a>
-      <a href="#" target="blank">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-      </a>
-      <a href="#" target="blank">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
   </div>
   <div align="center">
