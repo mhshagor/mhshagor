@@ -43,7 +43,7 @@ Assalamu Alaikum.
 - 📫 How to reach me: srq001100@gmail.com.
 <!-- Download CV -->
 <div style="text-align: center;">
-  <a href="https://github.com/mhshagor/mhshagor/blob/main/Web Developer Resume.pdf" style="text-decoration: none"  target="_blank">
+  <a href="https://drive.google.com/file/d/1F8VCsNQn7A1FItTXkf84pdlwgP6rcpto/view?usp=sharing" style="text-decoration: none"  target="_blank">
      <img src="https://github.com/mhshagor/mhshagor/blob/main/Download.gif" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:200px;max-width:80%;height:auto;" alt="dnld" border="0">
   </a> 
 </div>
