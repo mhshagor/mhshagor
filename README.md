@@ -1,20 +1,20 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
   <div id="badges" align="center">
-     <a href="https://www.fiverr.com/mhshagor" style="text-decoration: none" target="_blank">
-         <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
-     </a>
-    <a href="https://www.linkedin.com/in/m-h-shagor/" style="text-decoration: none"  target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.fiverr.com/mhshagor" target="_blank">
+      <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
     </a>
-    <a href="https://www.facebook.com/mhshagor97/" style="text-decoration: none"  target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <a href="https://www.linkedin.com/in/m-h-shagor/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-     <a href="https://www.instagram.com/mhshagor97" style="text-decoration: none"  target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
-     </a>
-    <a href="https://www.upwork.com/freelancers/~014b649d64f1500d05?viewMode=1" style="text-decoration: none"  target="_blank">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Upwork-badge?style=for-the-badge&logo=upwork&logoColor=white&color=%236FDA44">
+    <a href="https://www.facebook.com/mhshagor97/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <a href="https://www.instagram.com/mhshagor97" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
+    </a>
+    <a href="https://www.upwork.com/freelancers/~014b649d64f1500d05?viewMode=1" target="_blank">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Upwork-badge?style=for-the-badge&logo=upwork&logoColor=white&color=%236FDA44">
     </a>
   </div>
   <div align="center">
@@ -98,16 +98,15 @@ Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome De
   <img alt="Static Badge" src="https://img.shields.io/badge/Alpine-badge?style=for-the-badge&logo=alpinedotjs&logoColor=white&color=%2377C1D2">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
-   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="Tailwind" alt="Tailwind CSS"/>&nbsp;
-     <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
-     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
-     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="Tailwind" alt="Tailwind CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
   
   `BACKEND`
   
   <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-badge?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20">&nbsp;
-  <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-badge?style=for-the-badge&logo=livewire&logoColor=white&color=%23FB70A9">
-&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-badge?style=for-the-badge&logo=livewire&logoColor=white&color=%23FB70A9">&nbsp;
   <img alt="Static Badge" src="https://img.shields.io/badge/Php-badge?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4">&nbsp;
 
   `TOOLS`
@@ -124,7 +123,7 @@ Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome De
 <!-- Download CV -->
 <div style="text-align: center;">
   <a href="https://drive.google.com/file/d/1F8VCsNQn7A1FItTXkf84pdlwgP6rcpto/view?usp=sharing" style="text-decoration: none"  target="_blank">
-     <img src="https://github.com/mhshagor/mhshagor/blob/main/Download.gif" style="width:200px;max-width:80%;height:auto;" alt="dnld" border="0">
+    <img src="https://github.com/mhshagor/mhshagor/blob/main/Download.gif" style="width:200px;max-width:80%;height:auto;" alt="dnld" border="0">
   </a> 
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=😊+Don't+Forget+to+Click+Follow+😊)](https://github.com/mhshagor)
