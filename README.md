@@ -36,7 +36,7 @@
 </div>
 -->
 
-## Laravel Developer.
+# Laravel Developer
 
 ### 🙋‍♂️ About Me :
 
@@ -95,7 +95,7 @@ Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome De
   <!--
   <img alt="Static Badge" src="https://img.shields.io/badge/VueJs-badge?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%234FC08D">&nbsp;
   -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/Alpine-badge?style=for-the-badge&logo=alpine&logoColor=white&color=%2377C1D2">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Alpine-badge?style=for-the-badge&logo=alpinedotjs&logoColor=white&color=%2377C1D2">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="Tailwind" alt="Tailwind CSS"/>&nbsp;
