@@ -84,8 +84,7 @@ Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome De
 
 | No | Url |
 | ------------- | ------------- |
-| 01  | <a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">Kaaptai</a>  |
-
+| 01  | <a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">kaaptai.com</a>  |
 
 <hr>
 
