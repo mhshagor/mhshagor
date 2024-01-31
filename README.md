@@ -43,6 +43,25 @@ Assalamu Alaikum.
 
 <hr>
 
+### 😎 Skillset :
+
+Programming Languages: `HTML` `CSS` `JavaScript` `TypeScript` `PHP`
+
+CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
+
+Javascript Framworks/Libraries: `React.js` `Next.js` `jQuery`
+
+Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
+
+Databases: `MySQL`
+
+Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
+
+Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams`
+
+
+<hr>
+
 ### 👨‍💼Experiences:
 
 | No | Job Title | Company Name | Start Date:| End Date | Location |
