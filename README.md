@@ -72,7 +72,10 @@ Assalamu Alaikum.
   `BACKEND`
   
   <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-badge?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20">&nbsp;
-  <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-badge?style=for-the-badge&logo=livewire&logoColor=white&color=%234E56A6">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-badge?style=for-the-badge&logo=livewire&logoColor=white&color=%23FB70A9">
+&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Php-badge?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4">&nbsp;
+
 
 
 
