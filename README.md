@@ -17,14 +17,6 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Upwork-badge?style=for-the-badge&logo=upwork&logoColor=white&color=%236FDA44">
     </a>
   </div>
-  <div align="center">
-  
-  ![WELCOME](gitartwork.svg)
-    <h3 align="center"><a href="https://git.io/typing-svg"></a>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1500&color=ffcc00&center=true&vCenter=true&width=550&lines=Hey👋%2C+I'm+M.H+SHAGOR+From+BD"
-        alt="Typing SVG" />
-    </h3>
-  </div>
 </div>
 
 <!--
