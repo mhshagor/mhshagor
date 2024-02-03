@@ -48,9 +48,6 @@
   <a href="https://github.com/mhshagor?tab=views">
     <img alt="views" title="page view" src="https://view-count-badge.zohan.tech/mhshagor/profile?color=6b105d&labelColor=913e96&style=plastic&logo=eye&label=VISITORS&logoColor=white"/>
   </a>
-  <a href="https://mhshagor.github.io">
-    <img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/550-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=plastic&labelColor=CE4630&label=DOWNLOADS"/>
-  </a>
 </div>
 
 ## 🙋‍♂️ About Me :
