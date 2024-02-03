@@ -84,21 +84,54 @@
 <hr>
 
 ### 👨‍💼 Experiences:
-
-| No | Job Title | Company Name | Start Date:| End Date | Location |
-| ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 01  | Junior FullStack Web Developer  | Explore Tech Solutions | 1st February 2023  | Currently Working | Dhaka, Bangladesh |
-| 02  | Web Designer  | Explore Tech Solutions | 1st January 2020  | 30 December 2022 | Dhaka, Bangladesh |
-
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Job Title</th>
+      <th>Company Name</th>
+      <th>Start Date:</th>
+      <th>End Date</th>
+      <th>Location</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+      <td>01</td>
+      <td>Junior FullStack Web Developer</td>
+      <td>Explore Tech Solutions</td>
+      <td>1st February 2023</td>
+      <td>Currently Working</td>
+      <td>Dhaka, Bangladesh</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Web Designer</td>
+      <td>Explore Tech Solutions</td>
+      <td>1st January 2020</td>
+      <td>30 December 2022</td>
+      <td>Dhaka, Bangladesh</td>
+    </tr>
+  </tbody>
+</table>
 
 <hr>
 
 ### 🌍 Live Project:
-
-| No | Url |
-| ------------- | ------------- |
-| 01  | <a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">kaaptai.com</a>  |
-
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Url</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+      <td>01</td>
+      <td><a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">kaaptai.com</a></td>
+    </tr>
+  </tbody>
+</table>
 <hr>
 
 ### 🛠️ Languages and Tools :
