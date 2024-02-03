@@ -1,16 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
   <div id="badges" align="center">
-    <span>
+    <p>
     <a href="https://www.fiverr.com/mhshagor" target="_blank">
       <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
     </a>
-    </span>
-    <span>
+    </p>
+    <p>
     <a href="https://www.linkedin.com/in/m-h-shagor/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    </span>
+    </p>
     <span>
     <a href="https://www.facebook.com/mhshagor97/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
