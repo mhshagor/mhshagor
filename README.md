@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
-  <div id="badges" align="center">
+  <div id="badges" align="center">&nbsp;
     <a href="https://www.fiverr.com/mhshagor" target="_blank">
       <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
     </a>&nbsp;
