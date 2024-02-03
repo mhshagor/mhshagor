@@ -184,6 +184,11 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
   <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhshagor&theme=algolia&title_color=FFCC00" alt="Shagor's github stats" width="45%" height="100%">
 </div>
 <div align="center">
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhshagor&theme=algolia&title_color=FFCC00" alt="Shagor's github stats" width="45%" height="100%">
+
+  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhshagor&theme=algolia&title_color=FFCC00" alt="Shagor's github stats" width="45%" height="100%">
+</div>
+<div align="center">
   <img  width="65%" height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=transparent&title_color=FFCC00" alt="Shagor's github stats" />
 
   <img width="30%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhshagor&layout=compact&theme=transparent&title_color=FFCC00" alt="Github STat"/>
