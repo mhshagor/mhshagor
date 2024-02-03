@@ -52,7 +52,7 @@
   </a>
 </div>
 
-### 🙋‍♂️ About Me :
+## 🙋‍♂️ About Me :
 
 <table>
   <tbody>
@@ -68,13 +68,13 @@
 </table>
 <hr>
 
-### 😎 Skillset :
+## 😎 Skillset :
 
 Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Libraries: `Bootstrap` `Tailwind`<br><br> Javascript Framworks/Libraries: `Alpine.js` `jQuery`<br><br> Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br><br> Databases: `MySQL`<br><br> Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`<br><br> Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams`
 
 <hr>
 
-### 👨‍💼 Experiences:
+## 👨‍💼 Experiences:
 
 <table>
   <thead>
@@ -109,7 +109,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 
 <hr>
 
-### 🌍 Live Project:
+## 🌍 Live Project:
 
 <table>
   <thead>
@@ -197,7 +197,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
  
 <hr>
 
-### 🔥 My GitHub Stats :
+## 🔥 My GitHub Stats :
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="100%">
 
