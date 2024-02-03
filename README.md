@@ -3,16 +3,16 @@
   <div id="badges" align="center">
     <a href="https://www.fiverr.com/mhshagor" target="_blank">
       <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
-    </a>
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/m-h-shagor/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    </a>&nbsp;
     <a href="https://www.facebook.com/mhshagor97/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
+    </a>&nbsp;
     <a href="https://www.instagram.com/mhshagor97" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
-    </a>
+    </a>&nbsp;
     <a href="https://www.upwork.com/freelancers/~014b649d64f1500d05?viewMode=1" target="_blank">
       <img alt="Static Badge" src="https://img.shields.io/badge/Upwork-badge?style=for-the-badge&logo=upwork&logoColor=white&color=%236FDA44">
     </a>
@@ -40,13 +40,13 @@
 <p align="">
   <a href="https://github.com/mhshagor?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mhshagor?color=55960c&style=plastic&labelColor=488207&logo=star"/>
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/mhshagor?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mhshagor?color=236ad3&labelColor=1155ba&style=plastic&logo=person-add&label=Followers&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/mhshagor?tab=views">
     <img alt="views" title="page view" src="https://view-count-badge.zohan.tech/mhshagor/profile?color=6b105d&labelColor=913e96&style=plastic&logo=eye&label=VISITORS&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://mhshagor.github.io">
     <img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/550-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=plastic&labelColor=CE4630&label=DOWNLOADS"/>
   </a>
