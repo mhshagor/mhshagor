@@ -18,7 +18,6 @@
     </a>
   </div>
   <div align="center">
-  
   ![SHAGOR](gitartwork.svg)
     <h3 align="center"><a href="https://git.io/typing-svg"></a>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1500&color=ffcc00&center=true&vCenter=true&width=550&lines=Hey👋%2C+I'm+M.H+SHAGOR+From+BD"
@@ -26,6 +25,7 @@
     </h3>
   </div>
 </div>
+
 <!--
 <div align="center">
   <a href="https://app.daily.dev/mhshagor"><img src="https://api.daily.dev/devcards/1b9fc781f31749aaadc032f0ac936045.png?r=50w" style="margin: 5px;" width="35%" alt="Maruf H.'s Dev Card"/></a>
@@ -37,7 +37,7 @@
   
 <h1>Laravel Developer</h1>
 <!-- Button -->
-<p align="">
+<div align="">
   <a href="https://github.com/mhshagor?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mhshagor?color=55960c&style=plastic&labelColor=488207&logo=star"/>
   </a>
@@ -50,7 +50,7 @@
   <a href="https://mhshagor.github.io">
     <img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/550-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=plastic&labelColor=CE4630&label=DOWNLOADS"/>
   </a>
-</p>
+</div>
 
 ### 🙋‍♂️ About Me :
 
@@ -66,7 +66,6 @@
     </tr>
   </tbody>
 </table>
-
 <hr>
 
 ### 😎 Skillset :
@@ -76,6 +75,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 <hr>
 
 ### 👨‍💼 Experiences:
+
 <table>
   <thead>
     <tr>
@@ -110,6 +110,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 <hr>
 
 ### 🌍 Live Project:
+
 <table>
   <thead>
     <tr>
@@ -127,6 +128,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 <hr>
 
 ### 🛠️ Languages and Tools :
+
 <div>
   
   `FRONTEND`
@@ -157,7 +159,9 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
   <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
 </div>
+
 <hr>
+
 <!-- Download CV -->
 <div style="text-align: center;">
   <a href="https://drive.google.com/file/d/1F8VCsNQn7A1FItTXkf84pdlwgP6rcpto/view?usp=sharing" style="text-decoration: none"  target="_blank">
