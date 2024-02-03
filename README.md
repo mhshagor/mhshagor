@@ -26,6 +26,7 @@
     </h3>
   </div>
 </div>
+
 <!--
 <div align="center">
   <a href="https://app.daily.dev/mhshagor"><img src="https://api.daily.dev/devcards/1b9fc781f31749aaadc032f0ac936045.png?r=50w" style="margin: 5px;" width="35%" alt="Maruf H.'s Dev Card"/></a>
@@ -37,7 +38,7 @@
   
 <h1>Laravel Developer</h1>
 <!-- Button -->
-<p align="">
+<div align="">
   <a href="https://github.com/mhshagor?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mhshagor?color=55960c&style=plastic&labelColor=488207&logo=star"/>
   </a>
@@ -50,16 +51,15 @@
   <a href="https://mhshagor.github.io">
     <img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/550-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=plastic&labelColor=CE4630&label=DOWNLOADS"/>
   </a>
-</p>
-<!-- Github Readme Quotes - https://github.com/piyushsuthar/github-readme-quotes -->
+</div>
 
-### 🙋‍♂️ About Me :
+## 🙋‍♂️ About Me :
 
 <table>
   <tbody>
     <tr>
       <td>
-        <p>Assalamu Alaikum.<br>I am M.H Shagor from Bangladesh.I am full stack web developer. <br> I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br> You can download and save if necessary. Several web applications are being used in various organizations.<br> <b># Contact for any jobs include:</b> <code>E-commerce</code> <code>invoice generator</code> <code>distributor</code> <code>distribution</code> <br> <code>courier service</code> <code>diagnostic</code> etc.<br>Applications are particularly significant and I consider myself as an expert. <br><b># Please do not contact for any jobs include:</b> <code>Porn</code> <code>streaming</code> <code>officially illegal</code> etc.</p>
+        <p><b>Assalamu Alaikum.</b><br>I am M.H Shagor from Bangladesh.I am full stack web developer. <br> I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br> You can download and save if necessary. Several web applications are being used in various organizations.<br> <b># Contact for any jobs include:</b> <code>E-commerce</code> <code>invoice generator</code> <code>distributor</code> <code>distribution</code> <code>courier service</code> <code>diagnostic</code> etc.<br>Applications are particularly significant and I consider myself as an expert. <br><b># Please do not contact for any jobs include:</b> <code>Porn</code> <code>streaming</code> <code>officially illegal</code> etc.</p>
       </td>
       <td>
         <a href="https://github.com/mhshagor?tab=quotes"><img src="https://camo.githubusercontent.com/802fb9925078a202d9ed29616bd41b726498517b723b3b4c57a8ea2f62903046/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f7468656d653d64726163756c612671756f74653d4d792532304d61696e253230676f616c2532306973253230746f25323070726f766964652532307468652532306869676865737425323073657276696365" data-canonical-src="https://quotes-github-readme.vercel.app/api?theme=dracula&amp;quote=My%20Main%20goal%20is%20to%20provide%20the%20highest%20service" style="max-width: 100%;"></a>
@@ -67,90 +67,148 @@
     </tr>
   </tbody>
 </table>
+<hr>
+
+## 😎 Skillset :
+
+Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Libraries: `Bootstrap` `Tailwind`<br><br> Javascript Framworks/Libraries: `Alpine.js` `jQuery`<br><br> Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br><br> Databases: `MySQL`<br><br> Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`<br><br> Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams`
 
 <hr>
 
-### 😎 Skillset :
+## 👨‍💼 Experiences:
 
 <table>
-  <tbody>
+  <thead>
     <tr>
-      <td style="border: none;">
-        # Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> # CSS Frameworks/Libraries: `Bootstrap` `Tailwind`<br><br> # Javascript Framworks/Libraries: `Alpine.js` `jQuery`<br><br> # Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br><br> # Databases: `MySQL`<br><br> # Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`<br><br> # Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams`
-      </td>
+      <th>No</th>
+      <th>Job Title</th>
+      <th>Company Name</th>
+      <th>Start Date:</th>
+      <th>End Date</th>
+      <th>Location</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+      <td>01</td>
+      <td>Junior FullStack Web Developer</td>
+      <td>Explore Tech Solutions</td>
+      <td>1st February 2023</td>
+      <td>Currently Working</td>
+      <td>Dhaka, Bangladesh</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Web Designer</td>
+      <td>Explore Tech Solutions</td>
+      <td>1st January 2020</td>
+      <td>30 December 2022</td>
+      <td>Dhaka, Bangladesh</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+## 🌍 Live Project:
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Url</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+      <td>01</td>
+      <td><a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">kaaptai.com</a></td>
     </tr>
   </tbody>
 </table>
 <hr>
 
-### 👨‍💼 Experiences:
-
-| No | Job Title | Company Name | Start Date:| End Date | Location |
-| ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 01  | Junior FullStack Web Developer  | Explore Tech Solutions | 1st February 2023  | Currently Working | Dhaka, Bangladesh |
-| 02  | Web Designer  | Explore Tech Solutions | 1st January 2020  | 30 December 2022 | Dhaka, Bangladesh |
-
-
 <hr>
 
-### 🌍 Live Project:
+## 🛠️ My favorite tools
 
-| No | Url |
-| ------------- | ------------- |
-| 01  | <a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">kaaptai.com</a>  |
+### 👨‍💻 Programming Languages
 
-<hr>
-
-### 🛠️ Languages and Tools :
 <div>
   
   `FRONTEND`
   <!--
   <img alt="Static Badge" src="https://img.shields.io/badge/VueJs-badge?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%234FC08D">&nbsp;
   -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/Alpine-badge?style=for-the-badge&logo=alpinedotjs&logoColor=white&color=%2377C1D2">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="Tailwind" alt="Tailwind CSS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Alpine-badge?style=plastic&logo=alpinedotjs&logoColor=white&color=%2377C1D2">&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=plastic&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=plastic&logo=Tailwind-CSS&logoColor=white" title="Tailwind" alt="Tailwind CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=Bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
   
   `BACKEND`
   
-  <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-badge?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20">&nbsp;
-  <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-badge?style=for-the-badge&logo=livewire&logoColor=white&color=%23FB70A9">&nbsp;
-  <img alt="Static Badge" src="https://img.shields.io/badge/Php-badge?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-badge?style=plastic&logo=laravel&logoColor=white&color=%23FF2D20">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-badge?style=plastic&logo=livewire&logoColor=white&color=%23FB70A9">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Php-badge?style=plastic&logo=php&logoColor=white&color=%23777BB4">&nbsp;
 
   `TOOLS`
   
-  <img alt="Static Badge" src="https://img.shields.io/badge/MySql-badge?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1">&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
-  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
-  <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySql-badge?style=plastic&logo=mysql&logoColor=white&color=%234479A1">&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
+  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=plastic&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=plastic&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
+  <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=plastic&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=plastic&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
 </div>
+
+### 🧰 Platform and Engine
+
+<p>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
+  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-9270DB?logo=visual-studio&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Git%20Hub-121011.svg?logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad%2b%2b&logoColor=black"></a>
+  <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757?logo=sublime-text&logoColor=important"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+</p>
+
 <hr>
+
 <!-- Download CV -->
 <div style="text-align: center;">
   <a href="https://drive.google.com/file/d/1F8VCsNQn7A1FItTXkf84pdlwgP6rcpto/view?usp=sharing" style="text-decoration: none"  target="_blank">
     <img src="https://github.com/mhshagor/mhshagor/blob/main/Download.gif" style="width:200px;max-width:80%;height:auto;" alt="dnld" border="0">
   </a> 
-  
+<!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=😊+Don't+Forget+to+Click+Follow+😊)](https://github.com/mhshagor)
- </div>
+ --> 
+</div>
  
 <hr>
 
-### 🔥 My GitHub Stats :
+## 🔥 My GitHub Stats :
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="100%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhshagor&layout=compact&theme=transparent&title_color=FFCC00" width="25%" height="100%" alt="Github STat"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="45%" height="100%">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhshagor&theme=yeblu&utcOffset=6" alt="Shagor's github stats" width="45%" height="100%">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhshagor&theme=transparent&show_icons=true&date_format=M%20j%5B%2C%20Y%5D&title_color=FFCC00" width="44%" height="100%" alt="Github STat"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mhshagor&theme=transparent&show_icons=true&date_format=M%20j%5B%2C%20Y%5D&title_color=FFCC00" width="47%" height="100%" alt="Github STat"/>
-</div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="45%" height="100%">
 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="45%" height="100%">
+</div>
