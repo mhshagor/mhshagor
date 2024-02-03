@@ -37,7 +37,7 @@
   
 <h1>Laravel Developer</h1>
 <!-- Button -->
-<p align="" style="text-decoration: none;">
+<div align="" style="text-decoration: none;">
   <a href="https://github.com/mhshagor?tab=stars&sort=stargazers" style="text-decoration: none;">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mhshagor?color=55960c&style=plastic&labelColor=488207&logo=star"/>
   </a>
@@ -50,8 +50,7 @@
   <a href="https://mhshagor.github.io" style="text-decoration: none;">
     <img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/550-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=plastic&labelColor=CE4630&label=DOWNLOADS"/>
   </a>
-</p>
-<!-- Github Readme Quotes - https://github.com/piyushsuthar/github-readme-quotes -->
+</div>
 
 ### 🙋‍♂️ About Me :
 
