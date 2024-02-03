@@ -17,5 +17,3 @@ jobs:
           text: WELCOME
       - uses: jasineri/simple-push-action@v1
       
-- name: generate-snake-game-from-github-contribution-grid
-- uses: Platane/snk@v3.2.0
