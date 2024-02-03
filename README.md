@@ -179,46 +179,12 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="100%">
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="45%" height="100%">
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="45%" height="100%">
-</div>
-<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="45%" height="100%">
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhshagor&theme=yeblu&utcOffset=6" alt="Shagor's github stats" width="45%" height="100%">
 </div>
 <div align="center">
-  <img  width="65%" height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=transparent&title_color=FFCC00" alt="Shagor's github stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="45%" height="100%">
 
-  <img width="30%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhshagor&layout=compact&theme=transparent&title_color=FFCC00" alt="Github STat"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="45%" height="100%">
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhshagor&theme=transparent&show_icons=true&date_format=M%20j%5B%2C%20Y%5D&title_color=FFCC00" width="44%" height="100%" alt="Github STat"/>
-
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mhshagor&theme=transparent&show_icons=true&date_format=M%20j%5B%2C%20Y%5D&title_color=FFCC00" width="47%" height="100%" alt="Github STat"/>
-</div>
-
-
-
-<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.zohan.tech/api?username=mhshagor&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&locale=cn&card_width=540" alt="Shagor's github stats" />
-  </a>
-</p>
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shagor's streak" src="https://streak-stats.demolab.com/?user=mhshagor&theme=onedark&hide_border=true&locale=zh_Hans&card_width=480"/>
-  </a>
-</p>
-
-<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mhshagor&layout=compact&hide_border=true&theme=tokyonight&locale=cn&card_width=400" />
-  </a>
-  <!-- <a href="https://wakatime.com/@yeohvonchang"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=yeohvonchang&layout=compact&hide_border=true&theme=tokyonight" /></a> -->
-</p>
