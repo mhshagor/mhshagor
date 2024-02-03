@@ -19,7 +19,7 @@
   </div>
   <div align="center">
   
-  ![SHAGOR](gitartwork.svg)
+  ![WELCOME](gitartwork.svg)
     <h3 align="center"><a href="https://git.io/typing-svg"></a>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1500&color=ffcc00&center=true&vCenter=true&width=550&lines=Hey👋%2C+I'm+M.H+SHAGOR+From+BD"
         alt="Typing SVG" />
