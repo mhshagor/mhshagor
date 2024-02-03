@@ -1,31 +1,21 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
   <div id="badges" align="center">
-    <p>
     <a href="https://www.fiverr.com/mhshagor" target="_blank">
       <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
     </a>
-    </p>
-    <p>
     <a href="https://www.linkedin.com/in/m-h-shagor/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    </p>
-    <span>
     <a href="https://www.facebook.com/mhshagor97/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    </span>
-    <span>
     <a href="https://www.instagram.com/mhshagor97" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
     </a>
-    </span>
-    <span>
     <a href="https://www.upwork.com/freelancers/~014b649d64f1500d05?viewMode=1" target="_blank">
       <img alt="Static Badge" src="https://img.shields.io/badge/Upwork-badge?style=for-the-badge&logo=upwork&logoColor=white&color=%236FDA44">
     </a>
-    </span>
   </div>
   <div align="center">
   
