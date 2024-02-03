@@ -184,3 +184,32 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mhshagor&theme=transparent&show_icons=true&date_format=M%20j%5B%2C%20Y%5D&title_color=FFCC00" width="47%" height="100%" alt="Github STat"/>
 </div>
 
+
+<!-- GitHub Profile Summary Cards - https://github.com/vn7n24fzkq/github-profile-summary-cards/tree/main?tab=readme-ov-file -->
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeohvonchang&theme=tokyonight" alt="yeohvonchang's github stats" />
+  </a>
+</p>
+
+<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.zohan.tech/api?username=yeohvonchang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&locale=cn&card_width=540" alt="yeohvonchang's github stats" />
+  </a>
+</p>
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yeohvonchang's streak" src="https://streak-stats.demolab.com/?user=yeohvonchang&theme=onedark&hide_border=true&locale=zh_Hans&card_width=480"/>
+  </a>
+</p>
+
+<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=yeohvonchang&layout=compact&hide_border=true&theme=tokyonight&locale=cn&card_width=400" />
+  </a>
+  <!-- <a href="https://wakatime.com/@yeohvonchang"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=yeohvonchang&layout=compact&hide_border=true&theme=tokyonight" /></a> -->
+</p>
