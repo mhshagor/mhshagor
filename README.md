@@ -123,7 +123,6 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
     </tr>
   </tbody>
 </table>
-<hr>
 
 <hr>
 
