@@ -177,6 +177,13 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 ### 🔥 My GitHub Stats :
 
 <div align="center">
+  
+  <!-- GitHub Profile Summary Cards - https://github.com/vn7n24fzkq/github-profile-summary-cards/tree/main?tab=readme-ov-file -->
+  <p align="left">
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=transparent" alt="Shagor's github stats" />
+    </a>
+  </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhshagor&layout=compact&theme=transparent&title_color=FFCC00" width="25%" height="100%" alt="Github STat"/>
 </div>
 <div align="center">
@@ -185,12 +192,6 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 </div>
 
 
-<!-- GitHub Profile Summary Cards - https://github.com/vn7n24fzkq/github-profile-summary-cards/tree/main?tab=readme-ov-file -->
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=transparent" alt="Shagor's github stats" />
-  </a>
-</p>
 
 <!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
