@@ -177,13 +177,14 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 ### 🔥 My GitHub Stats :
 
 <div align="center">
-  
   <!-- GitHub Profile Summary Cards - https://github.com/vn7n24fzkq/github-profile-summary-cards/tree/main?tab=readme-ov-file -->
-  <img  width="65%" height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=transparent" alt="Shagor's github stats" />
-  <img width="30%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhshagor&layout=compact&theme=transparent&title_color=FFCC00" width="25%" height="100%" alt="Github STat"/>
+  <img  width="65%" height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=transparent&title_color=FFCC00" alt="Shagor's github stats" />
+
+  <img width="30%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhshagor&layout=compact&theme=transparent&title_color=FFCC00" alt="Github STat"/>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhshagor&theme=transparent&show_icons=true&date_format=M%20j%5B%2C%20Y%5D&title_color=FFCC00" width="44%" height="100%" alt="Github STat"/>
+
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mhshagor&theme=transparent&show_icons=true&date_format=M%20j%5B%2C%20Y%5D&title_color=FFCC00" width="47%" height="100%" alt="Github STat"/>
 </div>
 
