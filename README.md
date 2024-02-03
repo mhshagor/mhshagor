@@ -186,7 +186,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="45%" height="100%">
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhshagor&theme=yeblu" alt="Shagor's github stats" width="45%" height="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhshagor&theme=yeblu&utcOffset=6" alt="Shagor's github stats" width="45%" height="100%">
 </div>
 <div align="center">
   <img  width="65%" height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=transparent&title_color=FFCC00" alt="Shagor's github stats" />
