@@ -55,29 +55,32 @@
 
 ### 🙋‍♂️ About Me :
 
-|  |  |
-| ------------- | ------------- |
-| <p>Assalamu Alaikum.<br>I am M.H Shagor from Bangladesh.I am full stack web developer. <br> I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br> You can download and save if necessary. Several web applications are being used in various organizations.</br> <b># Contact for any jobs include:</b> `E-commerce` `invoice generator` `distributor` `distribution` <br> `courier service` `diagnostic` etc.</br>Applications are particularly significant and I consider myself as an expert. <br><b># Please do not contact for any jobs include:</b> `Porn` `streaming` `officially illegal` etc.</p>  |  <a href="https://github.com/mhshagor?tab=quotes"><img src="https://quotes-github-readme.vercel.app/api?theme=dracula&quote=My%20Main%20goal%20is%20to%20provide%20the%20highest%20service"></a>
-
-<table data-sourcepos="58:1-60:935">
-<tbody>
-<tr data-sourcepos="60:1-60:935">
-<td data-sourcepos="60:2-60:741" style="
-    border: none;
-"><p dir="auto">Assalamu Alaikum.<br>I am M.H Shagor from Bangladesh.I am full stack web developer. <br> I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br> You can download and save if necessary. Several web applications are being used in various organizations.<br> <b># Contact for any jobs include:</b> <code>E-commerce</code> <code>invoice generator</code> <code>distributor</code> <code>distribution</code> <br> <code>courier service</code> <code>diagnostic</code> etc.<br>Applications are particularly significant and I consider myself as an expert. <br><b># Please do not contact for any jobs include:</b> <code>Porn</code> <code>streaming</code> <code>officially illegal</code> etc.</p></td>
-<td data-sourcepos="60:743-60:935"><a href="https://github.com/mhshagor?tab=quotes"><img src="https://camo.githubusercontent.com/802fb9925078a202d9ed29616bd41b726498517b723b3b4c57a8ea2f62903046/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f7468656d653d64726163756c612671756f74653d4d792532304d61696e253230676f616c2532306973253230746f25323070726f766964652532307468652532306869676865737425323073657276696365" data-canonical-src="https://quotes-github-readme.vercel.app/api?theme=dracula&amp;quote=My%20Main%20goal%20is%20to%20provide%20the%20highest%20service" style="max-width: 100%;"></a></td>
-</tr>
-</tbody>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <p>Assalamu Alaikum.<br>I am M.H Shagor from Bangladesh.I am full stack web developer. <br> I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br> You can download and save if necessary. Several web applications are being used in various organizations.<br> <b># Contact for any jobs include:</b> <code>E-commerce</code> <code>invoice generator</code> <code>distributor</code> <code>distribution</code> <br> <code>courier service</code> <code>diagnostic</code> etc.<br>Applications are particularly significant and I consider myself as an expert. <br><b># Please do not contact for any jobs include:</b> <code>Porn</code> <code>streaming</code> <code>officially illegal</code> etc.</p>
+      </td>
+      <td>
+        <a href="https://github.com/mhshagor?tab=quotes"><img src="https://camo.githubusercontent.com/802fb9925078a202d9ed29616bd41b726498517b723b3b4c57a8ea2f62903046/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f7468656d653d64726163756c612671756f74653d4d792532304d61696e253230676f616c2532306973253230746f25323070726f766964652532307468652532306869676865737425323073657276696365" data-canonical-src="https://quotes-github-readme.vercel.app/api?theme=dracula&amp;quote=My%20Main%20goal%20is%20to%20provide%20the%20highest%20service" style="max-width: 100%;"></a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <hr>
 
 ### 😎 Skillset :
 
-|  |
-| ------------- | 
-| # Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> # CSS Frameworks/Libraries: `Bootstrap` `Tailwind`<br><br> # Javascript Framworks/Libraries: `Alpine.js` `jQuery`<br><br> # Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br><br> # Databases: `MySQL`<br><br> # Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`<br><br> # Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams` |
-
+<table>
+  <tbody>
+    <tr>
+      <td style="border: none;">
+        # Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> # CSS Frameworks/Libraries: `Bootstrap` `Tailwind`<br><br> # Javascript Framworks/Libraries: `Alpine.js` `jQuery`<br><br> # Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br><br> # Databases: `MySQL`<br><br> # Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`<br><br> # Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams`
+      </td>
+    </tr>
+  </tbody>
+</table>
 <hr>
 
 ### 👨‍💼 Experiences:
