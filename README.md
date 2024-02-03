@@ -127,7 +127,11 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 </table>
 <hr>
 
-### 🛠️ Languages and Tools :
+<hr>
+
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming Languages
 
 <div>
   
@@ -135,30 +139,49 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
   <!--
   <img alt="Static Badge" src="https://img.shields.io/badge/VueJs-badge?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%234FC08D">&nbsp;
   -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/Alpine-badge?style=for-the-badge&logo=alpinedotjs&logoColor=white&color=%2377C1D2">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="Tailwind" alt="Tailwind CSS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Alpine-badge?style=plastic&logo=alpinedotjs&logoColor=white&color=%2377C1D2">&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=plastic&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=plastic&logo=Tailwind-CSS&logoColor=white" title="Tailwind" alt="Tailwind CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=Bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
   
   `BACKEND`
   
-  <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-badge?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20">&nbsp;
-  <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-badge?style=for-the-badge&logo=livewire&logoColor=white&color=%23FB70A9">&nbsp;
-  <img alt="Static Badge" src="https://img.shields.io/badge/Php-badge?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-badge?style=plastic&logo=laravel&logoColor=white&color=%23FF2D20">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-badge?style=plastic&logo=livewire&logoColor=white&color=%23FB70A9">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Php-badge?style=plastic&logo=php&logoColor=white&color=%23777BB4">&nbsp;
 
   `TOOLS`
   
-  <img alt="Static Badge" src="https://img.shields.io/badge/MySql-badge?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1">&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
-  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
-  <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySql-badge?style=plastic&logo=mysql&logoColor=white&color=%234479A1">&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
+  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=plastic&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=plastic&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
+  <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=plastic&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=plastic&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
 </div>
+
+### 🧰 Platform and Engine
+
+<p>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
+  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-9270DB?logo=visual-studio&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Git%20Hub-121011.svg?logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad%2b%2b&logoColor=black"></a>
+  <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757?logo=sublime-text&logoColor=important"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+</p>
 
 <hr>
 
