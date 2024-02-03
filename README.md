@@ -38,16 +38,16 @@
 <h1>Laravel Developer</h1>
 <!-- Button -->
 <p align="">
-  <a href="https://github.com/mhshagor?tab=stars&sort=stargazers">
+  <a href="https://github.com/mhshagor?tab=stars&sort=stargazers" style="text-decoration: none;">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mhshagor?color=55960c&style=plastic&labelColor=488207&logo=star"/>
   </a>
-  <a href="https://github.com/mhshagor?tab=followers">
+  <a href="https://github.com/mhshagor?tab=followers" style="text-decoration: none;">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mhshagor?color=236ad3&labelColor=1155ba&style=plastic&logo=person-add&label=Followers&logoColor=white"/>
   </a>
-  <a href="https://github.com/mhshagor?tab=views">
+  <a href="https://github.com/mhshagor?tab=views" style="text-decoration: none;">
     <img alt="views" title="page view" src="https://view-count-badge.zohan.tech/mhshagor/profile?color=6b105d&labelColor=913e96&style=plastic&logo=eye&label=VISITORS&logoColor=white"/>
   </a>
-  <a href="https://mhshagor.github.io">
+  <a href="https://mhshagor.github.io" style="text-decoration: none;">
     <img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/550-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=plastic&labelColor=CE4630&label=DOWNLOADS"/>
   </a>
 </p>
@@ -59,7 +59,7 @@
   <tbody>
     <tr>
       <td>
-        <p>Assalamu Alaikum.<br>I am M.H Shagor from Bangladesh.I am full stack web developer. <br> I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br> You can download and save if necessary. Several web applications are being used in various organizations.<br> <b># Contact for any jobs include:</b> <code>E-commerce</code> <code>invoice generator</code> <code>distributor</code> <code>distribution</code> <code>courier service</code> <code>diagnostic</code> etc.<br>Applications are particularly significant and I consider myself as an expert. <br><b># Please do not contact for any jobs include:</b> <code>Porn</code> <code>streaming</code> <code>officially illegal</code> etc.</p>
+        <p><b>Assalamu Alaikum.</b><br>I am M.H Shagor from Bangladesh.I am full stack web developer. <br> I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br> You can download and save if necessary. Several web applications are being used in various organizations.<br> <b># Contact for any jobs include:</b> <code>E-commerce</code> <code>invoice generator</code> <code>distributor</code> <code>distribution</code> <code>courier service</code> <code>diagnostic</code> etc.<br>Applications are particularly significant and I consider myself as an expert. <br><b># Please do not contact for any jobs include:</b> <code>Porn</code> <code>streaming</code> <code>officially illegal</code> etc.</p>
       </td>
       <td>
         <a href="https://github.com/mhshagor?tab=quotes"><img src="https://camo.githubusercontent.com/802fb9925078a202d9ed29616bd41b726498517b723b3b4c57a8ea2f62903046/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f7468656d653d64726163756c612671756f74653d4d792532304d61696e253230676f616c2532306973253230746f25323070726f766964652532307468652532306869676865737425323073657276696365" data-canonical-src="https://quotes-github-readme.vercel.app/api?theme=dracula&amp;quote=My%20Main%20goal%20is%20to%20provide%20the%20highest%20service" style="max-width: 100%;"></a>
