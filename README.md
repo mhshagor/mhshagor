@@ -130,7 +130,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 
 <hr>
 
-## 🛠️ My favorite tools
+## 🛠️ My favorite Language & tools
 
 ### 👨‍💻 Programming Languages
 
