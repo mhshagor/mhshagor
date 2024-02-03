@@ -176,7 +176,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 
 ### 🔥 My GitHub Stats :
 
-![Shagor](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=algolia)(https://github.com/mhshagor)
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3c67072a4e72a82fbb665179e62444f10598696f215215ca383322fe23ff579c/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6d68736861676f72267468656d653d616c676f6c6961"><img src="https://camo.githubusercontent.com/3c67072a4e72a82fbb665179e62444f10598696f215215ca383322fe23ff579c/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6d68736861676f72267468656d653d616c676f6c6961" alt="Shagor" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&amp;theme=algolia" style="max-width: 100%;"></a>
 
 <div align="center">
   <img  width="65%" height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=transparent&title_color=FFCC00" alt="Shagor's github stats" />
