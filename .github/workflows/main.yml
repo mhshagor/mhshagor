@@ -14,5 +14,5 @@ jobs:
           # Use this username's contribution graph
           user_name: mhshagor
           # Text on contribution graph
-          text: SHAGOR
+          text: WELCOME
       - uses: jasineri/simple-push-action@v1
