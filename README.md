@@ -26,7 +26,20 @@
     </h3>
   </div>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhshagor&label=viewer&color=brightgreen&style=plastic" alt="mhshagor" /> </p>
+<p align="left">
+  <a href="https://github.com/mhshagor?tab=stars&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mhshagor?color=55960c&style=plastic&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/mhshagor?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mhshagor?color=236ad3&labelColor=1155ba&style=plastic&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mhshagor?tab=views">
+    <img alt="views" title="page view" src="https://view-count-badge.zohan.tech/mhshagor/profile?color=6b105d&labelColor=913e96&style=plastic&logo=eye&label=VISITORS&logoColor=white"/>
+  </a>
+  <a href="https://mhshagor.github.io">
+    <img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/5506-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=plastic&labelColor=CE4630&label=DOWNLOADS"/>
+  </a>
+</p>
 <!--
 <div align="center">
   <a href="https://app.daily.dev/mhshagor"><img src="https://api.daily.dev/devcards/1b9fc781f31749aaadc032f0ac936045.png?r=50w" style="margin: 5px;" width="35%" alt="Maruf H.'s Dev Card"/></a>
