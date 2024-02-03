@@ -26,11 +26,6 @@
     </h3>
   </div>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhshagor/mhshagor/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhshagor/mhshagor/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mhshagor/mhshagor/output/github-contribution-grid-snake.svg">
-</picture>
 <!--
 <div align="center">
   <a href="https://app.daily.dev/mhshagor"><img src="https://api.daily.dev/devcards/1b9fc781f31749aaadc032f0ac936045.png?r=50w" style="margin: 5px;" width="35%" alt="Maruf H.'s Dev Card"/></a>
