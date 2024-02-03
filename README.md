@@ -188,7 +188,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 <!-- GitHub Profile Summary Cards - https://github.com/vn7n24fzkq/github-profile-summary-cards/tree/main?tab=readme-ov-file -->
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeohvonchang&theme=tokyonight" alt="yeohvonchang's github stats" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=tokyonight" alt="Shagor's github stats" />
   </a>
 </p>
 
