@@ -37,20 +37,20 @@
   
 <h1>Laravel Developer</h1>
 <!-- Button -->
-<div align="" style="text-decoration: none;">
-  <a href="https://github.com/mhshagor?tab=stars&sort=stargazers" style="text-decoration: none;">
+<p align="">
+  <a href="https://github.com/mhshagor?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mhshagor?color=55960c&style=plastic&labelColor=488207&logo=star"/>
   </a>
-  <a href="https://github.com/mhshagor?tab=followers" style="text-decoration: none;">
+  <a href="https://github.com/mhshagor?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mhshagor?color=236ad3&labelColor=1155ba&style=plastic&logo=person-add&label=Followers&logoColor=white"/>
   </a>
-  <a href="https://github.com/mhshagor?tab=views" style="text-decoration: none;">
+  <a href="https://github.com/mhshagor?tab=views">
     <img alt="views" title="page view" src="https://view-count-badge.zohan.tech/mhshagor/profile?color=6b105d&labelColor=913e96&style=plastic&logo=eye&label=VISITORS&logoColor=white"/>
   </a>
-  <a href="https://mhshagor.github.io" style="text-decoration: none;">
+  <a href="https://mhshagor.github.io">
     <img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/550-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=plastic&labelColor=CE4630&label=DOWNLOADS"/>
   </a>
-</div>
+</p>
 
 ### 🙋‍♂️ About Me :
 
