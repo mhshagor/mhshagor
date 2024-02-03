@@ -72,15 +72,8 @@
 
 ### 😎 Skillset :
 
-<table>
-  <tbody>
-    <tr>
-      <td style="border: none;">
-        # Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> # CSS Frameworks/Libraries: `Bootstrap` `Tailwind`<br><br> # Javascript Framworks/Libraries: `Alpine.js` `jQuery`<br><br> # Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br><br> # Databases: `MySQL`<br><br> # Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`<br><br> # Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams`
-      </td>
-    </tr>
-  </tbody>
-</table>
+# Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> # CSS Frameworks/Libraries: `Bootstrap` `Tailwind`<br><br> # Javascript Framworks/Libraries: `Alpine.js` `jQuery`<br><br> # Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br><br> # Databases: `MySQL`<br><br> # Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`<br><br> # Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams`
+
 <hr>
 
 ### 👨‍💼 Experiences:
