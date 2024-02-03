@@ -192,7 +192,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
     <img src="https://github.com/mhshagor/mhshagor/blob/main/Download.gif" style="width:200px;max-width:80%;height:auto;" alt="dnld" border="0">  
   </a> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A61F&random=false&width=500&lines=%F0%9F%98%8A+Don't+Forget+to+Click+Follow+%F0%9F%98%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7A61F&random=false&width=600&lines=%F0%9F%98%8A+Don't+Forget+to+Click+Follow+%F0%9F%98%8A" alt="Typing SVG" align="center"/>
   </a> 
 </div>
  
