@@ -176,8 +176,9 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
 
 ### 🔥 My GitHub Stats :
 
+![Shagor](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=algolia)(https://github.com/mhshagor)
+
 <div align="center">
-  <!-- GitHub Profile Summary Cards - https://github.com/vn7n24fzkq/github-profile-summary-cards/tree/main?tab=readme-ov-file -->
   <img  width="65%" height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhshagor&theme=transparent&title_color=FFCC00" alt="Shagor's github stats" />
 
   <img width="30%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhshagor&layout=compact&theme=transparent&title_color=FFCC00" alt="Github STat"/>
