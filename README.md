@@ -121,6 +121,18 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
       <td>01</td>
       <td><a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">kaaptai.com</a></td>
     </tr>
+    <tr>
+      <td>02</td>
+      <td><a href="https://mhshagor.github.io/srq00/tailwind/project/keycopy/index.html" style="text-decoration: none" target="_blank">key-copy</a></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td><a href="https://mhshagor.github.io/srq00/" style="text-decoration: none" target="_blank">Simple Portfolio</a></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td><a href="https://mhshagor.github.io/srq00/component.html" style="text-decoration: none" target="_blank">My Design</a></td>
+    </tr>
   </tbody>
 </table>
 
