@@ -171,6 +171,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=plastic&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
   <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=plastic&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=plastic&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/postman-orange?style=plastic&logo=postman&logoColor=white"></a>
 </div>
 
 ### 🧰 Platform and Engine
@@ -190,7 +191,6 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
   <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757?logo=sublime-text&logoColor=important"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/postman-orange?style=plastic&logo=postman&logoColor=white"></a>
 </p>
 
 <hr>
