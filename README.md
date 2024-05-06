@@ -171,7 +171,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=plastic&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
   <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=plastic&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=plastic&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/postman-orange?style=plastic&logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/postman-orange?style=plastic&logo=postman&logoColor=white" title="postman"></a>
 </div>
 
 ### 🧰 Platform and Engine
