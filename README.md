@@ -164,8 +164,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
   <!--
   <img alt="Static Badge" src="https://img.shields.io/badge/VueJs-badge?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%234FC08D">&nbsp;
   -->
-  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
+  
   <img alt="Static Badge" src="https://img.shields.io/badge/Alpine-badge?style=plastic&logo=alpinedotjs&logoColor=white&color=%2377C1D2">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=plastic&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
