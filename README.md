@@ -164,7 +164,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
   <!--
   <img alt="Static Badge" src="https://img.shields.io/badge/VueJs-badge?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%234FC08D">&nbsp;
   -->
-
+  <!-- For Logo Design https://shields.io/badges-->
   <img alt="Static Badge" src="https://img.shields.io/badge/Alpine-badge?style=plastic&logo=alpinedotjs&logoColor=white&color=%2377C1D2" title="Alpine">
   <img alt="Static Badge" src="https://img.shields.io/badge/Axios-%23671DDF?style=plastic&logo=Axios" title="Axios">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
