@@ -172,7 +172,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=plastic&logo=Tailwind-CSS&logoColor=white" title="Tailwind" alt="Tailwind CSS"/>&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=Bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;<br/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;<br/><br/>
   
   `BACKEND`
   
