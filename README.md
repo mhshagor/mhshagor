@@ -166,7 +166,7 @@ Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Li
   -->
 
   <img alt="Static Badge" src="https://img.shields.io/badge/Alpine-badge?style=plastic&logo=alpinedotjs&logoColor=white&color=%2377C1D2" title="Alpine">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Axios-%23671DDF?style=plastic&logo=Axios&labelColor=%23671DDF&color=%23671DDF" title="Axios">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Axios-%23671DDF?style=plastic&logo=Axios" title="Axios">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=plastic&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=plastic&logo=Tailwind-CSS&logoColor=white" title="Tailwind" alt="Tailwind CSS"/>&nbsp;
