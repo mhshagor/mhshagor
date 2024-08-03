@@ -63,8 +63,8 @@
 			You can download and save if necessary. Several web applications are being used in various organizations.<br>
 			<b># Contact for any jobs include:</b> <br>
 			<table width="100%">
-				<tbody>
-					<tr>
+				<tbody width="100%">
+					<tr width="100%">
 						<td>E-commerce Platforms</td>
 					</tr>
 					<tr>
