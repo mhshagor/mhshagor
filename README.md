@@ -56,95 +56,38 @@
   <tbody>
     <tr>
       <td>
-        <div>
+        <p>
 			<b>Assalamu Alaikum.</b><br>
 			I am M.H Shagor from Bangladesh.I am full stack web developer. <br>
-			I have already received accolades from my company for short code,<br>
-			responsive design and friendly behavior.  My main goal is to provide<br> the highest service. Below are the details along with my CV.   <br>
-			You can download and save if necessary.<br> Several web applications are being used in various organizations.<br>
-			<b># Contact for any jobs include:</b> <br>
-			<table>
-				<tbody>
-					<tr>
-						<td colspan="4">E-commerce Platforms</td>
-					</tr>
-					<tr>
-						<td>LMS</td>
-						<td colspan="2">Learning Management System</td>
-					</tr>
-					<tr>
-						<td>CMS</td>
-						<td colspan="2">Content Management System</td>
-					</tr>
-					<tr>
-						<td>CRM</td>
-						<td colspan="2">Customer Relationship Management</td>
-					</tr>
-					<tr>
-						<td>ERP</td>
-						<td colspan="2">Enterprise Resource Planning</td>
-					</tr>
-					<tr>
-						<td>HRMS</td>
-						<td colspan="2">Human Resource Management System</td>
-					</tr>
-					<tr>
-						<td>BMS</td>
-						<td colspan="2">Business Management System</td>
-					</tr>
-					<tr>
-						<td>WMS</td>
-						<td colspan="2">Warehouse Management System</td>
-					</tr>
-					<tr>
-						<td>EMS</td>
-						<td colspan="2">Event Management System</td>
-					</tr>
-					<tr>
-						<td>RMS</td>
-						<td colspan="2">Reservation Management System</td>
-					</tr>
-					<tr>
-						<td>DMS</td>
-						<td colspan="2">Document Management System</td>
-					</tr>
-					<tr>
-						<td>HMS</td>
-						<td colspan="2">Hotel Management System</td>
-					</tr>
-					<tr>
-						<td>OMS</td>
-						<td colspan="2">Order Management System</td>
-					</tr>
-					<tr>
-						<td>IMS</td>
-						<td colspan="2">Inventory Management System</td>
-					</tr>
-					<tr>
-						<td>POS</td>
-						<td colspan="2">Point of Sale</td>
-					</tr>
-					<tr>
-						<td>Blog</td>
-						<td colspan="2">Blog</td>
-					</tr>
-					<tr>
-						<td colspan="4">Portfolio</td>
-					</tr>
-					<tr>
-						<td colspan="4">Magazine and News</td>
-					</tr>
-					<tr>
-						<td colspan="4">Personal Websites</td>
-					</tr>
-				</tbody>
-			</table><br>
-			<!-- Applications are particularly significant and I consider myself as an expert. <br>
-			<b># Please do not contact for any jobs include:</b> 
+			I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br>
+			You can download and save if necessary. Several web applications are being used in various organizations.<br>
+			<b># Contact for any jobs include:</b> <br> 
+			<code>E-commerce Platforms</code> 
+			<code>LMS (Learning Management System)</code><br> 
+			<code>CMS (Content Management System)</code>
+			<code>CRM (Customer Relationship Management)</code>   <br>
+			<code>ERP (Enterprise Resource Planning)</code>
+			<code>HRMS (Human Resource Management System)</code> <br>
+			<code>BMS (Business Management System)</code>  
+			<code>WMS (Warehouse Management System)</code>   <br>
+			<code>EMS (Event Management System)</code>
+			<code>RMS (Reservation Management System)</code>    <br>
+			<code>DMS (Document Management System)</code>
+			<code>HMS (Hotel Management System)</code>           <br>
+			<code>OMS (Order Management System)</code>
+			<code>IMS (Inventory Management System)</code>      <br>
+			<code>POS (Point of Sale)</code>
+			<!-- <code>SaaS (Software as a Service)</code>
+			<code>PaaS (Platform as a Service)</code> -->
+			<code>Blog</code>
+			<code>Portfolio </code>
+			<code>Magazine and News </code>
+			<code>Personal Websites</code> etc.<br>
+			Applications are particularly significant and I consider myself as an expert. <br><b># Please do not contact for any jobs include:</b> 
 			<code>Porn</code>
 			<code>streaming</code> 
-			<code>officially illegal</code> etc. -->
-		</div>
+			<code>officially illegal</code> etc.
+		</p>
       </td>
       <td>
         <a href="https://github.com/mhshagor?tab=quotes"><img src="https://camo.githubusercontent.com/802fb9925078a202d9ed29616bd41b726498517b723b3b4c57a8ea2f62903046/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f7468656d653d64726163756c612671756f74653d4d792532304d61696e253230676f616c2532306973253230746f25323070726f766964652532307468652532306869676865737425323073657276696365" data-canonical-src="https://quotes-github-readme.vercel.app/api?theme=dracula&amp;quote=My%20Main%20goal%20is%20to%20provide%20the%20highest%20service" style="max-width: 100%;"></a>
