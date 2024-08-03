@@ -100,19 +100,19 @@
 
 ## 😎 Skillset :
 
-Programming Languages:<br>
-`HTML` `CSS` `JavaScript` `PHP`<br>
+Programming Languages:<br> 
+`HTML` `CSS` `JavaScript` `PHP`<br><br>
  CSS Frameworks/Libraries:<br> 
-`Bootstrap` `Tailwind`<br>
-Javascript Framworks/Libraries:<br> 
-`Alpine.js` `jQuery`<br>
-Components and UIs:<br> 
-`Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br> 
-Databases:<br>
-`MySQL`<br> 
-Comfortable:  <br>
-`CSS Media Query` `Both Flexbox and Grid System`<br> 
-Tools: <br>
+`Bootstrap` `Tailwind`<br><br>
+Javascript Framworks/Libraries: 
+`Alpine.js` `jQuery`<br><br> 
+Components and UIs: 
+`Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br><br>
+Databases: 
+`MySQL`<br><br> 
+Comfortable:  
+`CSS Media Query` `Both Flexbox and Grid System`<br><br> 
+Tools: 
 `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams`
 
 <hr>
@@ -122,12 +122,12 @@ Tools: <br>
 <table>
   <thead>
     <tr>
-      <th style="text-align:left;">No</th>
-      <th style="text-align:left;">Job Title</th>
-      <th style="text-align:left;">Company Name</th>
-      <th style="text-align:left;">Start Date:</th>
-      <th style="text-align:left;">End Date</th>
-      <th style="text-align:left;">Location</th>
+      <th>No</th>
+      <th>Job Title</th>
+      <th>Company Name</th>
+      <th>Start Date:</th>
+      <th>End Date</th>
+      <th>Location</th>
     </tr>
 </thead>
 <tbody>
@@ -205,7 +205,7 @@ Tools: <br>
 
 <div>
   
-  `FRONTEND`
+  #FRONTEND
   <!--
   <img alt="Static Badge" src="https://img.shields.io/badge/VueJs-badge?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%234FC08D">&nbsp;
   -->
@@ -219,13 +219,13 @@ Tools: <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;<br/><br/>
   
-  `BACKEND`
+  #BACKEND
   
   <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-badge?style=plastic&logo=laravel&logoColor=white&color=%23FF2D20">&nbsp;
   <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-badge?style=plastic&logo=livewire&logoColor=white&color=%23FB70A9">&nbsp;
   <img alt="Static Badge" src="https://img.shields.io/badge/Php-badge?style=plastic&logo=php&logoColor=white&color=%23777BB4">&nbsp;
 
-  `TOOLS`
+  #TOOLS
   
   <img alt="Static Badge" src="https://img.shields.io/badge/MySql-badge?style=plastic&logo=mysql&logoColor=white&color=%234479A1">&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
