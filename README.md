@@ -66,102 +66,71 @@
 				<tbody>
 					<tr>
 						<td>E-commerce Platforms</td>
-						<td>E-commerce Platforms</td>
 					</tr>
 					<tr>
-						<td>LMS</td>
-						<td>Learning Management System</td>
+						<td>LMS (Learning Management System)</td>
 					</tr>
 					<tr>
-						<td>CMS</td>
-						<td>Content Management System</td>
+						<td>CMS (Content Management System)</td>
 					</tr>
 					<tr>
-						<td>CRM</td>
-						<td>Customer Relationship Management</td>
+						<td>CRM (Customer Relationship Management)</td>
 					</tr>
 					<tr>
-						<td>ERP</td>
-						<td>Enterprise Resource Planning</td>
+						<td>ERP (Enterprise Resource Planning)</td>
 					</tr>
 					<tr>
-						<td>HRMS</td>
-						<td>Human Resource Management System</td>
+						<td>HRMS (Human Resource Management System)</td>
 					</tr>
 					<tr>
-						<td>BMS</td>
-						<td>Business Management System</td>
+						<td>BMS (Business Management System)</td>
 					</tr>
 					<tr>
-						<td>WMS</td>
-						<td>Warehouse Management System</td>
+						<td>WMS (Warehouse Management System)</td>
 					</tr>
 					<tr>
-						<td>EMS</td>
-						<td>Event Management System</td>
+						<td>EMS (Event Management System)</td>
 					</tr>
 					<tr>
-						<td>RMS</td>
-						<td>Reservation Management System</td>
+						<td>RMS (Reservation Management System)</td>
 					</tr>
 					<tr>
-						<td>DMS</td>
-						<td>Document Management System</td>
+						<td>DMS (Document Management System)</td>
 					</tr>
 					<tr>
-						<td>HMS</td>
-						<td>Hotel Management System</td>
+						<td>HMS (Hotel Management System)</td>
 					</tr>
 					<tr>
-						<td>OMS</td>
-						<td>Order Management System</td>
+						<td>OMS (Order Management System)</td>
 					</tr>
 					<tr>
-						<td>IMS</td>
-						<td>Inventory Management System</td>
+						<td>IMS (Inventory Management System)</td>
 					</tr>
 					<tr>
-						<td>POS</td>
-						<td>Point of Sale</td>
+						<td>POS (Point of Sale)</td>
+					</tr>
+					<!-- Uncomment if needed
+					<tr>
+						<td>SaaS (Software as a Service)</td>
 					</tr>
 					<tr>
-						<td>Blog</td>
+						<td>PaaS (Platform as a Service)</td>
+					</tr> -->
+					<tr>
 						<td>Blog</td>
 					</tr>
 					<tr>
 						<td>Portfolio</td>
-						<td>Portfolio</td>
 					</tr>
 					<tr>
-						<td>Magazine and News</td>
 						<td>Magazine and News</td>
 					</tr>
 					<tr>
 						<td>Personal Websites</td>
-						<td>Personal Websites</td>
-					</tr>
-					<tr>
-						<td colspan="2">
-							Applications are particularly significant, and I consider myself an expert.
-						</td>
-					</tr>
-					<tr>
-						<td colspan="2"><b># Please do not contact for any jobs including:</b></td>
-					</tr>
-					<tr>
-						<td>Porn</td>
-						<td>Porn</td>
-					</tr>
-					<tr>
-						<td>Streaming</td>
-						<td>Streaming</td>
-					</tr>
-					<tr>
-						<td>Officially Illegal</td>
-						<td>Officially Illegal</td>
 					</tr>
 				</tbody>
 			</table>
+
 			<code>E-commerce Platforms</code> 
 			<code>LMS (Learning Management System)</code><br> 
 			<code>CMS (Content Management System)</code>
