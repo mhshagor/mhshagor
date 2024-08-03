@@ -61,7 +61,23 @@
 			I am M.H Shagor from Bangladesh.I am full stack web developer. <br>
 			I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br>
 			You can download and save if necessary. Several web applications are being used in various organizations.<br>
-			<b># Contact for any jobs include:</b> <br> 
+			<b># Contact for any jobs include:</b> <br>
+			<table>
+			<tbody>
+				<tr>
+				  <td>LMS</td>
+				  <td>Learning Management System</td>
+				</tr>
+				<tr>
+				  <td>CMS</td>
+				  <td>Content Management System</td>
+				</tr>
+				<tr>
+				  <td>CRM</td>
+				  <td>Customer Relationship Management</td>
+				</tr>
+			  </tbody>
+			</table>
 			<code>E-commerce Platforms</code> 
 			<code>LMS (Learning Management System)</code><br> 
 			<code>CMS (Content Management System)</code>
