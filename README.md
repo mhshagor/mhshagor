@@ -100,7 +100,20 @@
 
 ## 😎 Skillset :
 
-Programming Languages: `HTML` `CSS` `JavaScript` `PHP`<br><br> CSS Frameworks/Libraries: `Bootstrap` `Tailwind`<br><br> Javascript Framworks/Libraries: `Alpine.js` `jQuery`<br><br> Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br><br> Databases: `MySQL`<br><br> Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`<br><br> Tools: `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams`
+Programming Languages:<br>
+`HTML` `CSS` `JavaScript` `PHP`<br><br>
+ CSS Frameworks/Libraries:<br> 
+`Bootstrap` `Tailwind`<br><br> 
+Javascript Framworks/Libraries:<br> 
+`Alpine.js` `jQuery`<br><br> 
+Components and UIs:<br> 
+`Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br><br> 
+Databases:<br>
+`MySQL`<br><br> 
+Comfortable:  <br>
+`CSS Media Query` `Both Flexbox and Grid System`<br><br> 
+Tools: <br>
+`VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams`
 
 <hr>
 
