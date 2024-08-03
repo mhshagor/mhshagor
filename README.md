@@ -62,64 +62,79 @@
 			I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br>
 			You can download and save if necessary. Several web applications are being used in various organizations.<br>
 			<b># Contact for any jobs include:</b> <br>
-			<table width="100%">
-				<tbody width="100%">
-					<tr width="100%">
-						<td>E-commerce Platforms</td>
+			<table>
+				<tbody>
+					<tr>
+						<td colspan="2">E-commerce Platforms</td>
 					</tr>
 					<tr>
-						<td>LMS (Learning Management System)</td>
+						<td>LMS</td>
+						<td>Learning Management System</td>
 					</tr>
 					<tr>
-						<td>CMS (Content Management System)</td>
+						<td>CMS</td>
+						<td>Content Management System</td>
 					</tr>
 					<tr>
-						<td>CRM (Customer Relationship Management)</td>
+						<td>CRM</td>
+						<td>Customer Relationship Management</td>
 					</tr>
 					<tr>
-						<td>ERP (Enterprise Resource Planning)</td>
+						<td>ERP</td>
+						<td>Enterprise Resource Planning</td>
 					</tr>
 					<tr>
-						<td>HRMS (Human Resource Management System)</td>
+						<td>HRMS</td>
+						<td>Human Resource Management System</td>
 					</tr>
 					<tr>
-						<td>BMS (Business Management System)</td>
+						<td>BMS</td>
+						<td>Business Management System</td>
 					</tr>
 					<tr>
-						<td>WMS (Warehouse Management System)</td>
+						<td>WMS</td>
+						<td>Warehouse Management System</td>
 					</tr>
 					<tr>
-						<td>EMS (Event Management System)</td>
+						<td>EMS</td>
+						<td>Event Management System</td>
 					</tr>
 					<tr>
-						<td>RMS (Reservation Management System)</td>
+						<td>RMS</td>
+						<td>Reservation Management System</td>
 					</tr>
 					<tr>
-						<td>DMS (Document Management System)</td>
+						<td>DMS</td>
+						<td>Document Management System</td>
 					</tr>
 					<tr>
-						<td>HMS (Hotel Management System)</td>
+						<td>HMS</td>
+						<td>Hotel Management System</td>
 					</tr>
 					<tr>
-						<td>OMS (Order Management System)</td>
+						<td>OMS</td>
+						<td>Order Management System</td>
 					</tr>
 					<tr>
-						<td>IMS (Inventory Management System)</td>
+						<td>IMS</td>
+						<td>Inventory Management System</td>
 					</tr>
 					<tr>
-						<td>POS (Point of Sale)</td>
+						<td>POS</td>
+						<td>Point of Sale</td>
 					</tr>
 					<tr>
 						<td>Blog</td>
+						<td>Blog</td>
 					</tr>
 					<tr>
-						<td>Portfolio</td>
+						<td colspan="2">Portfolio</td>
 					</tr>
 					<tr>
-						<td>Magazine and News</td>
+						<td colspan="2">Magazine and News</td>
 					</tr>
 					<tr>
-						<td>Personal Websites</td>
+						<td colspan="2">Personal Websites</td>
 					</tr>
 				</tbody>
 			</table><br>
