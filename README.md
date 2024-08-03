@@ -60,8 +60,8 @@
 			<b>Assalamu Alaikum.</b><br>
 			I am M.H Shagor from Bangladesh.I am full stack web developer. <br>
 			I have already received accolades from my company for short code,<br>
-			responsive design and friendly behavior.  My main goal is to provide the highest service. Below are the details  <br> along with my CV.
-			You can download and save if necessary. Several web applications are<br> being used in various organizations.<br>
+			responsive design and friendly behavior.  My main goal is to provide<br> the highest service. Below are the details along with my CV.   <br>
+			You can download and save if necessary.<br> Several web applications are being used in various organizations.<br>
 			<b># Contact for any jobs include:</b> <br>
 			<table>
 				<tbody>
