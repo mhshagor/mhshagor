@@ -66,76 +66,91 @@
 			<table>
 				<tbody>
 					<tr>
-						<td colspan="2">E-commerce Platforms</td>
+						<td colspan="3">E-commerce Platforms</td>
 					</tr>
 					<tr>
 						<td>LMS</td>
 						<td>Learning Management System</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>CMS</td>
 						<td>Content Management System</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>CRM</td>
 						<td>Customer Relationship Management</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>ERP</td>
 						<td>Enterprise Resource Planning</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>HRMS</td>
 						<td>Human Resource Management System</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>BMS</td>
 						<td>Business Management System</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>WMS</td>
 						<td>Warehouse Management System</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>EMS</td>
 						<td>Event Management System</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>RMS</td>
 						<td>Reservation Management System</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>DMS</td>
 						<td>Document Management System</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>HMS</td>
-						<td>Hotel Management System</td>
+						<td>Hotel Management System</td>  
+						<td></td>
 					</tr>
 					<tr>
 						<td>OMS</td>
-						<td>Order Management System</td>
+						<td>Order Management System</td>  
+						<td></td>
 					</tr>
 					<tr>
 						<td>IMS</td>
-						<td>Inventory Management System</td>
+						<td>Inventory Management System</td> 
+						<td></td>
 					</tr>
 					<tr>
 						<td>POS</td>
-						<td>Point of Sale</td>
+						<td>Point of Sale</td>    
+						<td></td>
 					</tr>
 					<tr>
 						<td>Blog</td>
 						<td>Blog</td>
+						<td></td>
 					</tr>
 					<tr>
-						<td colspan="2">Portfolio</td>
+						<td colspan="3">Portfolio</td>
 					</tr>
 					<tr>
-						<td colspan="2">Magazine and News</td>
+						<td colspan="3">Magazine and News</td>
 					</tr>
 					<tr>
-						<td colspan="2">Personal Websites</td>
+						<td colspan="3">Personal Websites</td>
 					</tr>
 				</tbody>
 			</table><br>
