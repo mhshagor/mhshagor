@@ -60,22 +60,22 @@
 			<b>Assalamu Alaikum.</b><br>
 			I am M.H Shagor from Bangladesh.I am full stack web developer. <br>
 			I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br>
-			You can download and save if necessary. Several web applications are being used in various organizations.<br> 
+			You can download and save if necessary. Several web applications are being used in various organizations.<br> <br>
 			<b># Contact for any jobs include:</b> 
 			<code>E-commerce Platforms</code> 
-			<code>LMS (Learning Management System)</code> 
+			<code>LMS (Learning Management System)</code><br> 
 			<code>CMS (Content Management System)</code>
 			<code>CRM (Customer Relationship Management)</code>
-			<code>ERP (Enterprise Resource Planning)</code>
+			<code>ERP (Enterprise Resource Planning)</code> <br>
 			<code>HRMS (Human Resource Management System)</code>
 			<code>BMS (Business Management System)</code>
-			<code>WMS (Warehouse Management System)</code>
+			<code>WMS (Warehouse Management System)</code><br>
 			<code>EMS (Event Management System)</code>
 			<code>RMS (Reservation Management System)</code>
-			<code>DMS (Document Management System)</code>
+			<code>DMS (Document Management System)</code> <br>
 			<code>HMS (Hotel Management System)</code>
 			<code>OMS (Order Management System)</code>
-			<code>IMS (Inventory Management System)</code>
+			<code>IMS (Inventory Management System)</code>  <br>
 			<code>POS (Point of Sale)</code>
 			<!-- <code>SaaS (Software as a Service)</code>
 			<code>PaaS (Platform as a Service)</code> -->
