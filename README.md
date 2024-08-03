@@ -62,7 +62,7 @@
 			I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br>
 			You can download and save if necessary. Several web applications are being used in various organizations.<br>
 			<b># Contact for any jobs include:</b> <br>
-			<table>
+			<table width="100%">
 				<tbody>
 					<tr>
 						<td>E-commerce Platforms</td>
