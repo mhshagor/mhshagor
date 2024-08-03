@@ -66,7 +66,7 @@
 			<table>
 				<tbody>
 					<tr>
-						<td colspan="3">E-commerce Platforms</td>
+						<td colspan="4">E-commerce Platforms</td>
 					</tr>
 					<tr>
 						<td>LMS</td>
