@@ -101,17 +101,17 @@
 ## 😎 Skillset :
 
 Programming Languages:<br>
-`HTML` `CSS` `JavaScript` `PHP`<br><br>
+`HTML` `CSS` `JavaScript` `PHP`<br>
  CSS Frameworks/Libraries:<br> 
-`Bootstrap` `Tailwind`<br><br> 
+`Bootstrap` `Tailwind`<br>
 Javascript Framworks/Libraries:<br> 
-`Alpine.js` `jQuery`<br><br> 
+`Alpine.js` `jQuery`<br>
 Components and UIs:<br> 
-`Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br><br> 
+`Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br> 
 Databases:<br>
-`MySQL`<br><br> 
+`MySQL`<br> 
 Comfortable:  <br>
-`CSS Media Query` `Both Flexbox and Grid System`<br><br> 
+`CSS Media Query` `Both Flexbox and Grid System`<br> 
 Tools: <br>
 `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams`
 
@@ -122,12 +122,12 @@ Tools: <br>
 <table>
   <thead>
     <tr>
-      <th>No</th>
-      <th>Job Title</th>
-      <th>Company Name</th>
-      <th>Start Date:</th>
-      <th>End Date</th>
-      <th>Location</th>
+      <th style="text-align:left;">No</th>
+      <th style="text-align:left;">Job Title</th>
+      <th style="text-align:left;">Company Name</th>
+      <th style="text-align:left;">Start Date:</th>
+      <th style="text-align:left;">End Date</th>
+      <th style="text-align:left;">Location</th>
     </tr>
 </thead>
 <tbody>
