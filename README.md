@@ -131,27 +131,6 @@
 				</tbody>
 			</table>
 
-			<code>E-commerce Platforms</code> 
-			<code>LMS (Learning Management System)</code><br> 
-			<code>CMS (Content Management System)</code>
-			<code>CRM (Customer Relationship Management)</code>   <br>
-			<code>ERP (Enterprise Resource Planning)</code>
-			<code>HRMS (Human Resource Management System)</code> <br>
-			<code>BMS (Business Management System)</code>  
-			<code>WMS (Warehouse Management System)</code>   <br>
-			<code>EMS (Event Management System)</code>
-			<code>RMS (Reservation Management System)</code>    <br>
-			<code>DMS (Document Management System)</code>
-			<code>HMS (Hotel Management System)</code>           <br>
-			<code>OMS (Order Management System)</code>
-			<code>IMS (Inventory Management System)</code>      <br>
-			<code>POS (Point of Sale)</code>
-			<!-- <code>SaaS (Software as a Service)</code>
-			<code>PaaS (Platform as a Service)</code> -->
-			<code>Blog</code>
-			<code>Portfolio </code>
-			<code>Magazine and News </code>
-			<code>Personal Websites</code> etc.<br>
 			Applications are particularly significant and I consider myself as an expert. <br><b># Please do not contact for any jobs include:</b> 
 			<code>Porn</code>
 			<code>streaming</code> 
