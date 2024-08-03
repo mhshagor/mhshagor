@@ -62,24 +62,31 @@
 			I have already received accolades from my company for short code, responsive design and friendly behavior. <br> My main goal is to provide the highest service. Below are the details along with my CV. <br>
 			You can download and save if necessary. Several web applications are being used in various organizations.<br> 
 			<b># Contact for any jobs include:</b> 
-		<code>eCommerce</code> 
-		<code>LMS (Learning Management System)</code> 
-		<code>CMS (Content Management System)</code>
-		<code>CRM (Customer Relationship Management)</code>
-		<code>Blog</code>
-		<code>Portfolio </code>
-		<code>Magazine and News </code>
-		<code>Personal Websites</code>
-		<code>Membership Websites</code> 
-		<code>invoice generator</code> 
-		<code>distributor</code> 
-		<code>distribution</code> 
-		<code>courier service</code> 
-		<code>diagnostic</code> etc.<br>
-		Applications are particularly significant and I consider myself as an expert. <br><b># Please do not contact for any jobs include:</b> 
-		<code>Porn</code>
-		<code>streaming</code> 
-		<code>officially illegal</code> etc.
+			<code>E-commerce Platforms</code> 
+			<code>LMS (Learning Management System)</code> 
+			<code>CMS (Content Management System)</code>
+			<code>CRM (Customer Relationship Management)</code>
+			<code>ERP (Enterprise Resource Planning)</code>
+			<code>HRMS (Human Resource Management System)</code>
+			<code>BMS (Business Management System)</code>
+			<code>WMS (Warehouse Management System)</code>
+			<code>EMS (Event Management System)</code>
+			<code>RMS (Reservation Management System)</code>
+			<code>DMS (Document Management System)</code>
+			<code>HMS (Hotel Management System)</code>
+			<code>OMS (Order Management System)</code>
+			<code>IMS (Inventory Management System)</code>
+			<code>POS (Point of Sale)</code>
+			<!-- <code>SaaS (Software as a Service)</code>
+			<code>PaaS (Platform as a Service)</code> -->
+			<code>Blog</code>
+			<code>Portfolio </code>
+			<code>Magazine and News </code>
+			<code>Personal Websites</code> etc.<br>
+			Applications are particularly significant and I consider myself as an expert. <br><b># Please do not contact for any jobs include:</b> 
+			<code>Porn</code>
+			<code>streaming</code> 
+			<code>officially illegal</code> etc.
 		</p>
       </td>
       <td>
