@@ -139,11 +139,11 @@
 					</tr>
 				</tbody>
 			</table><br>
-			Applications are particularly significant and I consider myself as an expert. <br>
+			<!-- Applications are particularly significant and I consider myself as an expert. <br>
 			<b># Please do not contact for any jobs include:</b> 
 			<code>Porn</code>
 			<code>streaming</code> 
-			<code>officially illegal</code> etc.
+			<code>officially illegal</code> etc. -->
 		</div>
       </td>
       <td>
