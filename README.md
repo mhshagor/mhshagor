@@ -260,7 +260,7 @@ Tools:
 
 <!-- Download CV -->
 <div>
-  <a href="https://drive.google.com/file/d/1lkiL705oRyrg1nkUaUx5A-LHC_SN5mfR/view?usp=sharing" style="text-decoration: none"  target="_blank">
+  <a href="https://drive.google.com/file/d/1ZNGnssQQg--RWfaUf8zQ-xDbBdEdmOoE/view?usp=sharing" style="text-decoration: none"  target="_blank">
     <img src="https://github.com/mhshagor/mhshagor/blob/main/Download.gif" style="width:200px;max-width:80%;height:auto;" alt="dnld" border="0">  
   </a>
   <a href="https://git.io/typing-svg">
