@@ -91,7 +91,8 @@
 		</p>
       </td>
       <td>
-        <a href="https://github.com/mhshagor?tab=quotes"><img src="[https://camo.githubusercontent.com/802fb9925078a202d9ed29616bd41b726498517b723b3b4c57a8ea2f62903046/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f7468656d653d64726163756c612671756f74653d4d792532304d61696e253230676f616c2532306973253230746f25323070726f766964652532307468652532306869676865737425323073657276696365" data-canonical-src="https://quotes-github-readme.vercel.app/api?theme=dracula&amp;quote=My%20Main%20goal%20is%20to%20provide%20the%20highest%20service" style="max-width: 100%;"](https://quotes-github-readme.vercel.app/api?theme=dracula&quote=My%20Main%20goal%20is%20to%20provide%20the%20highest%20service" alt="My Main goal is to provide the highest service" style="max-width: 100%;")></a>
+        <a href="https://github.com/mhshagor?tab=quotes"><img src="https://quotes-github-readme.vercel.app/api?theme=dracula&quote=My%20Main%20goal%20is%20to%20provide%20the%20highest%20service" alt="My Main goal is to provide the highest service" style="max-width: 100%;">
+</a>
       </td>
     </tr>
   </tbody>
