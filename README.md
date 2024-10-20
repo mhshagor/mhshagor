@@ -162,7 +162,6 @@ Tools:
 <table>
   <thead>
     <table>
-      <thead>
         <tr>
           <th colspan="2">Design</th>
         </tr>
@@ -170,7 +169,6 @@ Tools:
           <th>No</th>
           <th>Url</th>
         </tr>
-      </thead>
     </table>
 </thead>
 <tbody>
