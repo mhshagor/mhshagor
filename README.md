@@ -161,10 +161,17 @@ Tools:
 
 <table>
   <thead>
-    <tr>
-      <th>No</th>
-      <th>Url</th>
-    </tr>
+    <table>
+      <thead>
+        <tr>
+          <th colspan="2">Design</th>
+        </tr>
+        <tr>
+          <th>No</th>
+          <th>Url</th>
+        </tr>
+      </thead>
+    </table>
 </thead>
 <tbody>
     <tr>
