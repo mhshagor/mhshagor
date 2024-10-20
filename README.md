@@ -194,6 +194,17 @@ Tools:
       <td>08</td>
       <td><a href="https://mhshagor.github.io/srq00/component.html" style="text-decoration: none" target="_blank">My Design</a></td>
     </tr>
+    <tr>
+      <td colspan="2">Developing</td>
+    </tr>
+    <tr>
+      <td>09</td>
+      <td><a href="https://office.bestprintersltd.com/" style="text-decoration: none" target="_blank">Printing Press</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td><a href="https://graytik.com/" style="text-decoration: none" target="_blank">GrayTik</a></td>
+    </tr>
   </tbody>
 </table>
 
