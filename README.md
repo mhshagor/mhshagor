@@ -185,7 +185,7 @@ Tools:
               </tr>
               <tr>
                 <td>03</td>
-                <td><a href="https://mhshagor.github.io/srq00/bootstrap/project/keycopy/index.html" style="text-decoration: none" target="_blank">key-copy</a></td>
+                <td><a href="https://mhshagor.github.io/srq00/bootstrap/project/keycopy/index.html" style="text-decoration: none" target="_blank">Key Copy</a></td>
               </tr>
               <tr>
                 <td>04</td>
@@ -220,7 +220,7 @@ Tools:
             <tbody>
               <tr>
                 <td>01</td>
-                <td><a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">kaaptai.com</a></td>
+                <td><a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">Kaaptai.com</a></td>
               </tr>
               <tr>
                 <td>02</td>
@@ -232,7 +232,7 @@ Tools:
               </tr>
               <tr>
                 <td>04</td>
-                <td><a href="https://movie.exploretechsolutions.com/" style="text-decoration: none" target="_blank">Bd flix</a></td>
+                <td><a href="https://movie.exploretechsolutions.com/" style="text-decoration: none" target="_blank">Bdflix</a></td>
               </tr>
               <tr>
                 <td>05</td>
