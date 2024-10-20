@@ -160,7 +160,7 @@ Tools:
 ## 🌍 Live Project:
 
 <div>
-  <table>
+  <table style="border-collapse: collapse;">
     <tbody>
       <tr>
         <td>
