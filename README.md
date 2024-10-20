@@ -168,6 +168,9 @@ Tools:
 </thead>
 <tbody>
     <tr>
+      <td colspan="2">Design</td>
+    </tr>
+    <tr>
       <td>01</td>
       <td><a href="https://mhshagor.github.io/srq00/" style="text-decoration: none" target="_blank">Simple Portfolio</a></td>
     </tr>
@@ -185,29 +188,29 @@ Tools:
     </tr>
     <tr>
       <td>05</td>
-      <td><a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">kaaptai.com</a></td>
-    </tr>
-    <tr>
-      <td>06</td>
       <td><a href="https://mhshagor.github.io/srq00/tailwind/project/bestsheba/index.html" style="text-decoration: none" target="_blank">Best Sheba</a></td>
     </tr>
     <tr>
-      <td>07</td>
+      <td>06</td>
       <td><a href="https://mhshagor.github.io/srq00/tailwind/project/assuregroup/index.html" style="text-decoration: none" target="_blank">Assure Group</a></td>
     </tr>
     <tr>
-      <td>08</td>
+      <td>07</td>
       <td><a href="https://mhshagor.github.io/srq00/component.html" style="text-decoration: none" target="_blank">My Design</a></td>
     </tr>
     <tr>
       <td colspan="2">Developing</td>
     </tr>
     <tr>
-      <td>09</td>
+      <td>01</td>
+      <td><a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">kaaptai.com</a></td>
+    </tr>
+    <tr>
+      <td>02</td>
       <td><a href="https://office.bestprintersltd.com/" style="text-decoration: none" target="_blank">Printing Press</a></td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>03</td>
       <td><a href="https://graytik.com/" style="text-decoration: none" target="_blank">GrayTik</a></td>
     </tr>
   </tbody>
