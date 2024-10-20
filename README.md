@@ -213,6 +213,18 @@ Tools:
       <td>03</td>
       <td><a href="https://graytik.com/" style="text-decoration: none" target="_blank">GrayTik</a></td>
     </tr>
+    <tr>
+      <td>04</td>
+      <td><a href="https://movie.exploretechsolutions.com/" style="text-decoration: none" target="_blank">Bd flix</a></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td><a href="https://distributor.exploretechsolutions.com/" style="text-decoration: none" target="_blank">Distributor</a></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td><a href="https://cnf.exploretechsolutions.com/" style="text-decoration: none" target="_blank">Cnf</a></td>
+    </tr>
   </tbody>
 </table>
 
