@@ -162,28 +162,11 @@ Tools:
 <table>
   <thead>
     <tr>
-      <table>
-        <thead>
-          <tr>
-            <th colspan="2">Design</th>
-          </tr>
-          <tr>
-            <th>No</th>
-            <th>Url</th>
-          </tr>
-        </thead>
-      </table>
-      <table>
-        <thead>
-          <tr>
-            <th colspan="2">Design</th>
-          </tr>
-          <tr>
-            <th>No</th>
-            <th>Url</th>
-          </tr>
-        </thead>
-      </table>
+      <th colspan="2">Design</th>
+    </tr>
+    <tr>
+      <th>No</th>
+      <th>Url</th>
     </tr>
   </thead>
   <tbody>
