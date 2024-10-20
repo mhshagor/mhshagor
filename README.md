@@ -164,7 +164,7 @@ Tools:
     <tbody>
       <tr>
         <td>
-          <table>
+          <table style="border-collapse: collapse;">
             <thead>
               <tr>
                 <th colspan="2">Design</th>
@@ -207,7 +207,7 @@ Tools:
           </table>
         </td>
         <td>
-          <table>
+          <table style="border-collapse: collapse;">
             <thead>
               <tr>
                 <th colspan="2">Developing</th>
