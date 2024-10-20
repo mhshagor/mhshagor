@@ -203,33 +203,6 @@ Tools:
                 <td>07</td>
                 <td><a href="https://mhshagor.github.io/srq00/component.html" style="text-decoration: none" target="_blank">My Design</a></td>
               </tr>
-              <tr>
-                <td colspan="2">Developing</td>
-              </tr>
-              <tr>
-                <td>01</td>
-                <td><a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">kaaptai.com</a></td>
-              </tr>
-              <tr>
-                <td>02</td>
-                <td><a href="https://office.bestprintersltd.com/" style="text-decoration: none" target="_blank">Printing Press</a></td>
-              </tr>
-              <tr>
-                <td>03</td>
-                <td><a href="https://graytik.com/" style="text-decoration: none" target="_blank">GrayTik</a></td>
-              </tr>
-              <tr>
-                <td>04</td>
-                <td><a href="https://movie.exploretechsolutions.com/" style="text-decoration: none" target="_blank">Bd flix</a></td>
-              </tr>
-              <tr>
-                <td>05</td>
-                <td><a href="https://distributor.exploretechsolutions.com/" style="text-decoration: none" target="_blank">Distributor</a></td>
-              </tr>
-              <tr>
-                <td>06</td>
-                <td><a href="https://cnf.exploretechsolutions.com/" style="text-decoration: none" target="_blank">Cnf</a></td>
-              </tr>
             </tbody>
           </table>
         </td>
@@ -237,7 +210,7 @@ Tools:
           <table>
             <thead>
               <tr>
-                <th colspan="2">Design</th>
+                <th colspan="2">Developing</th>
               </tr>
               <tr>
                 <th>No</th>
@@ -245,37 +218,6 @@ Tools:
               </tr>
             </thead>
             <tbody>
-              <tr>
-                <td>01</td>
-                <td><a href="https://mhshagor.github.io/srq00/" style="text-decoration: none" target="_blank">Simple Portfolio</a></td>
-              </tr>
-              <tr>
-                <td>02</td>
-                <td><a href="https://massiveengineers.com/" style="text-decoration: none" target="_blank">Massive Engineers</a></td>
-              </tr>
-              <tr>
-                <td>03</td>
-                <td><a href="https://mhshagor.github.io/srq00/bootstrap/project/keycopy/index.html" style="text-decoration: none" target="_blank">key-copy</a></td>
-              </tr>
-              <tr>
-                <td>04</td>
-                <td><a href="https://mhshagor.github.io/srq00/bootstrap/project/appluz/index.html" style="text-decoration: none" target="_blank">Appluz</a></td>
-              </tr>
-              <tr>
-                <td>05</td>
-                <td><a href="https://mhshagor.github.io/srq00/tailwind/project/bestsheba/index.html" style="text-decoration: none" target="_blank">Best Sheba</a></td>
-              </tr>
-              <tr>
-                <td>06</td>
-                <td><a href="https://mhshagor.github.io/srq00/tailwind/project/assuregroup/index.html" style="text-decoration: none" target="_blank">Assure Group</a></td>
-              </tr>
-              <tr>
-                <td>07</td>
-                <td><a href="https://mhshagor.github.io/srq00/component.html" style="text-decoration: none" target="_blank">My Design</a></td>
-              </tr>
-              <tr>
-                <td colspan="2">Developing</td>
-              </tr>
               <tr>
                 <td>01</td>
                 <td><a href="https://kaaptai.com/" style="text-decoration: none" target="_blank">kaaptai.com</a></td>
@@ -305,7 +247,9 @@ Tools:
         </td>
       </tr>
     </tbody>
+  </table>
 <div>
+
 <hr>
 
 ## 🛠️ My favorite Language & tools
