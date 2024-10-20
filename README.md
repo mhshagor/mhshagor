@@ -242,6 +242,10 @@ Tools:
                 <td>06</td>
                 <td><a href="https://cnf.exploretechsolutions.com/" style="text-decoration: none" target="_blank">Cnf</a></td>
               </tr>
+              <tr>
+                <td>07</td>
+                <td><a href="#" style="text-decoration: none" target="_blank">Diagnostic</a></td>
+              </tr>
             </tbody>
           </table>
         </td>
