@@ -35,7 +35,7 @@
   </a>
 </div>
 -->
-  
+
 <h1>Laravel Developer</h1>
 <!-- Button -->
 <div align="">
@@ -105,19 +105,19 @@
 
 ## 😎 Skillset :
 
-Programming Languages:<br> 
+Programming Languages:<br>
 `HTML` `CSS` `JavaScript` `PHP`<br><br>
- CSS Frameworks/Libraries:<br> 
+CSS Frameworks/Libraries:<br>
 `Bootstrap` `Tailwind`<br><br>
-Javascript Framworks/Libraries: 
-`Alpine.js` `jQuery`<br><br> 
-Components and UIs: 
+Javascript Framworks/Libraries:
+`Alpine.js` `jQuery`<br><br>
+Components and UIs:
 `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`<br><br>
-Databases: 
-`MySQL`<br><br> 
+Databases:
+`MySQL`<br><br>
 Comfortable:  
-`CSS Media Query` `Both Flexbox and Grid System`<br><br> 
-Tools: 
+`CSS Media Query` `Both Flexbox and Grid System`<br><br>
+Tools:
 `VS code` `Notepad++` `Git GitHub` `Terminal` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Web Mail` `Teams`
 
 <hr>
@@ -138,6 +138,14 @@ Tools:
 <tbody>
     <tr>
       <td>01</td>
+      <td>Junior FullStack Laravel Developer</td>
+      <td>Medpro International Ltd</td>
+      <td>1st October 2024</td>
+      <td>Currently Working</td>
+      <td>Dhaka, Bangladesh</td>
+    </tr>
+    <tr>
+      <td>02</td>
       <td>Junior FullStack Web Developer</td>
       <td>Explore Tech Solutions</td>
       <td>1st February 2023</td>
@@ -145,7 +153,7 @@ Tools:
       <td>Dhaka, Bangladesh</td>
     </tr>
     <tr>
-      <td>02</td>
+      <td>03</td>
       <td>Web Designer</td>
       <td>Explore Tech Solutions</td>
       <td>1st January 2020</td>
@@ -282,16 +290,17 @@ Tools:
   <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-badge?style=plastic&logo=livewire&logoColor=white&color=%23FB70A9">&nbsp;
   <img alt="Static Badge" src="https://img.shields.io/badge/Php-badge?style=plastic&logo=php&logoColor=white&color=%23777BB4">&nbsp;
 
-  #TOOLS
-  
-  <img alt="Static Badge" src="https://img.shields.io/badge/MySql-badge?style=plastic&logo=mysql&logoColor=white&color=%234479A1">&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
-  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=plastic&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=plastic&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
-  <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=plastic&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=plastic&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
-  <img alt="Postman" src="https://img.shields.io/badge/postman-orange?style=plastic&logo=postman&logoColor=white" title="postman">
+#TOOLS
+
+<img alt="Static Badge" src="https://img.shields.io/badge/MySql-badge?style=plastic&logo=mysql&logoColor=white&color=%234479A1">&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
+<img src="https://img.shields.io/badge/npm-CB3837.svg?style=plastic&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF.svg?style=plastic&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
+<img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=plastic&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
+<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=plastic&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
+<img alt="Postman" src="https://img.shields.io/badge/postman-orange?style=plastic&logo=postman&logoColor=white" title="postman">
+
 </div>
 
 ### 🧰 Platform and Engine
